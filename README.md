@@ -1,4 +1,4 @@
-# Github Repo for the paper tentatively titled "Large Language Models are Inconsistent Communicators of Medical Probabilities"
+# Code Repository for the paper tentatively titled "Large Language Models are Inconsistent Communicators of Medical Probabilities"
 
 
 This repository contains the code needed to reproduce the results of the paper tentatively titled "Large Language Models are Inconsistent Communicators of Medical Probabilities". 
