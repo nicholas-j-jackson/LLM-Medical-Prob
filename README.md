@@ -24,8 +24,6 @@ conda activate llm_med_prob
 1. Create a .env file that contains the API Keys for your OpenAI, Google AI, xAI, and anthropic accounts. 
 2. Run main.py <model_name> <require_prob_only> where <model_name> is either ChatGPT, Gemini, Grok, or Claude and <require_prob_only> is 0 or 1, with 1 indicating you'd like to add a system prompt to require the LLM to answer only with a probability. To fully reproduce this study, the run the batch script experiment.sh.
 
-### NOTE: 
-main.py is set to run each prompt 1x in this repo, however the original experiment used 20 repeats. This is controlled via N_repeats on line 43.
 
 ## Analysis
 1. After running the experiments with <require_prob_only> set to 0. Run the command: 
