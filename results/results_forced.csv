@@ -1,0 +1,3201 @@
+,word,event,anxiety,response,Model
+0,Rare,severe,1,0.01,ChatGPT
+1,Rare,severe,0,0.05,ChatGPT
+2,Rare,mild,1,0.01,ChatGPT
+3,Rare,mild,0,0.1,ChatGPT
+4,Uncommon,severe,1,0.05,ChatGPT
+5,Uncommon,severe,0,0.1,ChatGPT
+6,Uncommon,mild,1,0.05,ChatGPT
+7,Uncommon,mild,0,0.25,ChatGPT
+8,Unlikely,severe,1,0.1,ChatGPT
+9,Unlikely,severe,0,0.1,ChatGPT
+10,Unlikely,mild,1,0.2,ChatGPT
+11,Unlikely,mild,0,0.2,ChatGPT
+12,Possible,severe,1,0.2,ChatGPT
+13,Possible,severe,0,0.2,ChatGPT
+14,Possible,mild,1,0.15,ChatGPT
+15,Possible,mild,0,0.25,ChatGPT
+16,Common,severe,1,0.2,ChatGPT
+17,Common,severe,0,0.5,ChatGPT
+18,Common,mild,1,0.1,ChatGPT
+19,Common,mild,0,0.4,ChatGPT
+20,Very Common,severe,1,0.25,ChatGPT
+21,Very Common,severe,0,0.25,ChatGPT
+22,Very Common,mild,1,0.35,ChatGPT
+23,Very Common,mild,0,0.6,ChatGPT
+24,Probable,severe,1,0.6,ChatGPT
+25,Probable,severe,0,0.7,ChatGPT
+26,Probable,mild,1,0.7,ChatGPT
+27,Probable,mild,0,0.7,ChatGPT
+28,Likely,severe,1,0.7,ChatGPT
+29,Likely,severe,0,0.7,ChatGPT
+30,Likely,mild,1,0.7,ChatGPT
+31,Likely,mild,0,0.7,ChatGPT
+32,Usual,severe,1,0.5,ChatGPT
+33,Usual,severe,0,0.5,ChatGPT
+34,Usual,mild,1,0.2,ChatGPT
+35,Usual,mild,0,0.5,ChatGPT
+36,Very Likely,severe,1,0.75,ChatGPT
+37,Very Likely,severe,0,0.75,ChatGPT
+38,Very Likely,mild,1,0.9,ChatGPT
+39,Very Likely,mild,0,0.8,ChatGPT
+40,Rare,severe,1,0.05,ChatGPT
+41,Rare,severe,0,0.03,ChatGPT
+42,Rare,mild,1,0.05,ChatGPT
+43,Rare,mild,0,0.05,ChatGPT
+44,Uncommon,severe,1,0.05,ChatGPT
+45,Uncommon,severe,0,0.05,ChatGPT
+46,Uncommon,mild,1,0.05,ChatGPT
+47,Uncommon,mild,0,0.05,ChatGPT
+48,Unlikely,severe,1,0.1,ChatGPT
+49,Unlikely,severe,0,0.25,ChatGPT
+50,Unlikely,mild,1,0.1,ChatGPT
+51,Unlikely,mild,0,0.15,ChatGPT
+52,Possible,severe,1,,ChatGPT
+53,Possible,severe,0,0.23,ChatGPT
+54,Possible,mild,1,0.2,ChatGPT
+55,Possible,mild,0,0.1,ChatGPT
+56,Common,severe,1,0.2,ChatGPT
+57,Common,severe,0,0.2,ChatGPT
+58,Common,mild,1,0.25,ChatGPT
+59,Common,mild,0,0.3,ChatGPT
+60,Very Common,severe,1,0.2,ChatGPT
+61,Very Common,severe,0,0.6,ChatGPT
+62,Very Common,mild,1,0.6,ChatGPT
+63,Very Common,mild,0,0.7,ChatGPT
+64,Probable,severe,1,0.75,ChatGPT
+65,Probable,severe,0,0.75,ChatGPT
+66,Probable,mild,1,0.7,ChatGPT
+67,Probable,mild,0,0.7,ChatGPT
+68,Likely,severe,1,0.7,ChatGPT
+69,Likely,severe,0,0.7,ChatGPT
+70,Likely,mild,1,0.7,ChatGPT
+71,Likely,mild,0,0.7,ChatGPT
+72,Usual,severe,1,0.4,ChatGPT
+73,Usual,severe,0,0.5,ChatGPT
+74,Usual,mild,1,0.2,ChatGPT
+75,Usual,mild,0,0.5,ChatGPT
+76,Very Likely,severe,1,0.8,ChatGPT
+77,Very Likely,severe,0,0.8,ChatGPT
+78,Very Likely,mild,1,0.8,ChatGPT
+79,Very Likely,mild,0,0.8,ChatGPT
+80,Rare,severe,1,0.01,ChatGPT
+81,Rare,severe,0,0.1,ChatGPT
+82,Rare,mild,1,0.05,ChatGPT
+83,Rare,mild,0,0.05,ChatGPT
+84,Uncommon,severe,1,0.15,ChatGPT
+85,Uncommon,severe,0,0.05,ChatGPT
+86,Uncommon,mild,1,0.05,ChatGPT
+87,Uncommon,mild,0,0.1,ChatGPT
+88,Unlikely,severe,1,0.05,ChatGPT
+89,Unlikely,severe,0,0.2,ChatGPT
+90,Unlikely,mild,1,0.1,ChatGPT
+91,Unlikely,mild,0,0.1,ChatGPT
+92,Possible,severe,1,0.2,ChatGPT
+93,Possible,severe,0,0.25,ChatGPT
+94,Possible,mild,1,0.3,ChatGPT
+95,Possible,mild,0,0.5,ChatGPT
+96,Common,severe,1,0.2,ChatGPT
+97,Common,severe,0,0.3,ChatGPT
+98,Common,mild,1,0.3,ChatGPT
+99,Common,mild,0,0.3,ChatGPT
+100,Very Common,severe,1,0.2,ChatGPT
+101,Very Common,severe,0,0.3,ChatGPT
+102,Very Common,mild,1,0.6,ChatGPT
+103,Very Common,mild,0,0.75,ChatGPT
+104,Probable,severe,1,0.75,ChatGPT
+105,Probable,severe,0,0.7,ChatGPT
+106,Probable,mild,1,0.7,ChatGPT
+107,Probable,mild,0,0.7,ChatGPT
+108,Likely,severe,1,0.7,ChatGPT
+109,Likely,severe,0,0.7,ChatGPT
+110,Likely,mild,1,0.7,ChatGPT
+111,Likely,mild,0,0.7,ChatGPT
+112,Usual,severe,1,0.5,ChatGPT
+113,Usual,severe,0,0.5,ChatGPT
+114,Usual,mild,1,0.7,ChatGPT
+115,Usual,mild,0,0.5,ChatGPT
+116,Very Likely,severe,1,0.75,ChatGPT
+117,Very Likely,severe,0,0.75,ChatGPT
+118,Very Likely,mild,1,0.8,ChatGPT
+119,Very Likely,mild,0,0.8,ChatGPT
+120,Rare,severe,1,0.01,ChatGPT
+121,Rare,severe,0,0.05,ChatGPT
+122,Rare,mild,1,0.05,ChatGPT
+123,Rare,mild,0,0.05,ChatGPT
+124,Uncommon,severe,1,0.05,ChatGPT
+125,Uncommon,severe,0,0.05,ChatGPT
+126,Uncommon,mild,1,0.05,ChatGPT
+127,Uncommon,mild,0,0.1,ChatGPT
+128,Unlikely,severe,1,0.05,ChatGPT
+129,Unlikely,severe,0,0.1,ChatGPT
+130,Unlikely,mild,1,0.1,ChatGPT
+131,Unlikely,mild,0,0.25,ChatGPT
+132,Possible,severe,1,0.15,ChatGPT
+133,Possible,severe,0,0.2,ChatGPT
+134,Possible,mild,1,0.5,ChatGPT
+135,Possible,mild,0,0.25,ChatGPT
+136,Common,severe,1,0.3,ChatGPT
+137,Common,severe,0,0.25,ChatGPT
+138,Common,mild,1,0.25,ChatGPT
+139,Common,mild,0,0.45,ChatGPT
+140,Very Common,severe,1,0.2,ChatGPT
+141,Very Common,severe,0,0.2,ChatGPT
+142,Very Common,mild,1,0.42,ChatGPT
+143,Very Common,mild,0,0.75,ChatGPT
+144,Probable,severe,1,0.6,ChatGPT
+145,Probable,severe,0,0.7,ChatGPT
+146,Probable,mild,1,0.75,ChatGPT
+147,Probable,mild,0,0.7,ChatGPT
+148,Likely,severe,1,0.6,ChatGPT
+149,Likely,severe,0,0.6,ChatGPT
+150,Likely,mild,1,0.7,ChatGPT
+151,Likely,mild,0,0.6,ChatGPT
+152,Usual,severe,1,0.8,ChatGPT
+153,Usual,severe,0,0.8,ChatGPT
+154,Usual,mild,1,0.3,ChatGPT
+155,Usual,mild,0,0.5,ChatGPT
+156,Very Likely,severe,1,0.7,ChatGPT
+157,Very Likely,severe,0,0.8,ChatGPT
+158,Very Likely,mild,1,0.8,ChatGPT
+159,Very Likely,mild,0,0.8,ChatGPT
+160,Rare,severe,1,0.01,ChatGPT
+161,Rare,severe,0,0.05,ChatGPT
+162,Rare,mild,1,0.01,ChatGPT
+163,Rare,mild,0,0.05,ChatGPT
+164,Uncommon,severe,1,0.05,ChatGPT
+165,Uncommon,severe,0,0.05,ChatGPT
+166,Uncommon,mild,1,0.05,ChatGPT
+167,Uncommon,mild,0,0.1,ChatGPT
+168,Unlikely,severe,1,0.05,ChatGPT
+169,Unlikely,severe,0,0.2,ChatGPT
+170,Unlikely,mild,1,0.2,ChatGPT
+171,Unlikely,mild,0,0.1,ChatGPT
+172,Possible,severe,1,0.5,ChatGPT
+173,Possible,severe,0,0.1,ChatGPT
+174,Possible,mild,1,0.5,ChatGPT
+175,Possible,mild,0,0.05,ChatGPT
+176,Common,severe,1,0.15,ChatGPT
+177,Common,severe,0,0.25,ChatGPT
+178,Common,mild,1,0.25,ChatGPT
+179,Common,mild,0,0.6,ChatGPT
+180,Very Common,severe,1,0.2,ChatGPT
+181,Very Common,severe,0,0.8,ChatGPT
+182,Very Common,mild,1,0.4,ChatGPT
+183,Very Common,mild,0,0.75,ChatGPT
+184,Probable,severe,1,0.7,ChatGPT
+185,Probable,severe,0,0.7,ChatGPT
+186,Probable,mild,1,0.6,ChatGPT
+187,Probable,mild,0,0.7,ChatGPT
+188,Likely,severe,1,0.7,ChatGPT
+189,Likely,severe,0,0.7,ChatGPT
+190,Likely,mild,1,0.7,ChatGPT
+191,Likely,mild,0,0.7,ChatGPT
+192,Usual,severe,1,0.25,ChatGPT
+193,Usual,severe,0,0.5,ChatGPT
+194,Usual,mild,1,0.2,ChatGPT
+195,Usual,mild,0,0.35,ChatGPT
+196,Very Likely,severe,1,0.75,ChatGPT
+197,Very Likely,severe,0,0.7,ChatGPT
+198,Very Likely,mild,1,0.9,ChatGPT
+199,Very Likely,mild,0,0.7,ChatGPT
+200,Rare,severe,1,0.01,ChatGPT
+201,Rare,severe,0,0.01,ChatGPT
+202,Rare,mild,1,0.05,ChatGPT
+203,Rare,mild,0,0.05,ChatGPT
+204,Uncommon,severe,1,0.05,ChatGPT
+205,Uncommon,severe,0,0.05,ChatGPT
+206,Uncommon,mild,1,0.1,ChatGPT
+207,Uncommon,mild,0,0.15,ChatGPT
+208,Unlikely,severe,1,0.1,ChatGPT
+209,Unlikely,severe,0,0.1,ChatGPT
+210,Unlikely,mild,1,0.1,ChatGPT
+211,Unlikely,mild,0,0.2,ChatGPT
+212,Possible,severe,1,0.2,ChatGPT
+213,Possible,severe,0,0.2,ChatGPT
+214,Possible,mild,1,0.2,ChatGPT
+215,Possible,mild,0,0.3,ChatGPT
+216,Common,severe,1,0.2,ChatGPT
+217,Common,severe,0,0.38,ChatGPT
+218,Common,mild,1,0.4,ChatGPT
+219,Common,mild,0,0.5,ChatGPT
+220,Very Common,severe,1,0.2,ChatGPT
+221,Very Common,severe,0,0.3,ChatGPT
+222,Very Common,mild,1,0.6,ChatGPT
+223,Very Common,mild,0,0.75,ChatGPT
+224,Probable,severe,1,0.6,ChatGPT
+225,Probable,severe,0,0.7,ChatGPT
+226,Probable,mild,1,0.7,ChatGPT
+227,Probable,mild,0,0.7,ChatGPT
+228,Likely,severe,1,0.7,ChatGPT
+229,Likely,severe,0,0.7,ChatGPT
+230,Likely,mild,1,0.7,ChatGPT
+231,Likely,mild,0,0.6,ChatGPT
+232,Usual,severe,1,0.5,ChatGPT
+233,Usual,severe,0,0.5,ChatGPT
+234,Usual,mild,1,0.2,ChatGPT
+235,Usual,mild,0,0.6,ChatGPT
+236,Very Likely,severe,1,0.75,ChatGPT
+237,Very Likely,severe,0,0.75,ChatGPT
+238,Very Likely,mild,1,0.75,ChatGPT
+239,Very Likely,mild,0,0.75,ChatGPT
+240,Rare,severe,1,0.02,ChatGPT
+241,Rare,severe,0,0.1,ChatGPT
+242,Rare,mild,1,0.05,ChatGPT
+243,Rare,mild,0,0.05,ChatGPT
+244,Uncommon,severe,1,0.05,ChatGPT
+245,Uncommon,severe,0,0.05,ChatGPT
+246,Uncommon,mild,1,0.05,ChatGPT
+247,Uncommon,mild,0,0.15,ChatGPT
+248,Unlikely,severe,1,0.3,ChatGPT
+249,Unlikely,severe,0,0.15,ChatGPT
+250,Unlikely,mild,1,0.2,ChatGPT
+251,Unlikely,mild,0,0.2,ChatGPT
+252,Possible,severe,1,0.25,ChatGPT
+253,Possible,severe,0,0.3,ChatGPT
+254,Possible,mild,1,0.2,ChatGPT
+255,Possible,mild,0,0.15,ChatGPT
+256,Common,severe,1,0.6,ChatGPT
+257,Common,severe,0,0.5,ChatGPT
+258,Common,mild,1,0.4,ChatGPT
+259,Common,mild,0,0.5,ChatGPT
+260,Very Common,severe,1,0.2,ChatGPT
+261,Very Common,severe,0,0.75,ChatGPT
+262,Very Common,mild,1,0.6,ChatGPT
+263,Very Common,mild,0,0.75,ChatGPT
+264,Probable,severe,1,0.7,ChatGPT
+265,Probable,severe,0,0.7,ChatGPT
+266,Probable,mild,1,0.7,ChatGPT
+267,Probable,mild,0,0.7,ChatGPT
+268,Likely,severe,1,0.7,ChatGPT
+269,Likely,severe,0,0.7,ChatGPT
+270,Likely,mild,1,0.7,ChatGPT
+271,Likely,mild,0,0.7,ChatGPT
+272,Usual,severe,1,0.3,ChatGPT
+273,Usual,severe,0,0.3,ChatGPT
+274,Usual,mild,1,0.5,ChatGPT
+275,Usual,mild,0,0.5,ChatGPT
+276,Very Likely,severe,1,0.75,ChatGPT
+277,Very Likely,severe,0,0.7,ChatGPT
+278,Very Likely,mild,1,0.85,ChatGPT
+279,Very Likely,mild,0,0.7,ChatGPT
+280,Rare,severe,1,0.01,ChatGPT
+281,Rare,severe,0,0.01,ChatGPT
+282,Rare,mild,1,0.05,ChatGPT
+283,Rare,mild,0,0.01,ChatGPT
+284,Uncommon,severe,1,0.05,ChatGPT
+285,Uncommon,severe,0,0.05,ChatGPT
+286,Uncommon,mild,1,0.05,ChatGPT
+287,Uncommon,mild,0,0.1,ChatGPT
+288,Unlikely,severe,1,0.05,ChatGPT
+289,Unlikely,severe,0,0.2,ChatGPT
+290,Unlikely,mild,1,0.2,ChatGPT
+291,Unlikely,mild,0,0.2,ChatGPT
+292,Possible,severe,1,0.2,ChatGPT
+293,Possible,severe,0,0.1,ChatGPT
+294,Possible,mild,1,0.05,ChatGPT
+295,Possible,mild,0,0.25,ChatGPT
+296,Common,severe,1,0.2,ChatGPT
+297,Common,severe,0,0.3,ChatGPT
+298,Common,mild,1,0.3,ChatGPT
+299,Common,mild,0,0.25,ChatGPT
+300,Very Common,severe,1,0.6,ChatGPT
+301,Very Common,severe,0,0.3,ChatGPT
+302,Very Common,mild,1,0.7,ChatGPT
+303,Very Common,mild,0,0.7,ChatGPT
+304,Probable,severe,1,0.5,ChatGPT
+305,Probable,severe,0,0.7,ChatGPT
+306,Probable,mild,1,0.6,ChatGPT
+307,Probable,mild,0,0.7,ChatGPT
+308,Likely,severe,1,0.7,ChatGPT
+309,Likely,severe,0,0.7,ChatGPT
+310,Likely,mild,1,0.7,ChatGPT
+311,Likely,mild,0,0.7,ChatGPT
+312,Usual,severe,1,0.3,ChatGPT
+313,Usual,severe,0,0.5,ChatGPT
+314,Usual,mild,1,0.5,ChatGPT
+315,Usual,mild,0,0.5,ChatGPT
+316,Very Likely,severe,1,0.75,ChatGPT
+317,Very Likely,severe,0,0.75,ChatGPT
+318,Very Likely,mild,1,0.7,ChatGPT
+319,Very Likely,mild,0,0.75,ChatGPT
+320,Rare,severe,1,0.05,ChatGPT
+321,Rare,severe,0,0.05,ChatGPT
+322,Rare,mild,1,0.05,ChatGPT
+323,Rare,mild,0,0.05,ChatGPT
+324,Uncommon,severe,1,0.05,ChatGPT
+325,Uncommon,severe,0,0.05,ChatGPT
+326,Uncommon,mild,1,0.2,ChatGPT
+327,Uncommon,mild,0,0.1,ChatGPT
+328,Unlikely,severe,1,0.1,ChatGPT
+329,Unlikely,severe,0,0.25,ChatGPT
+330,Unlikely,mild,1,0.1,ChatGPT
+331,Unlikely,mild,0,0.2,ChatGPT
+332,Possible,severe,1,0.2,ChatGPT
+333,Possible,severe,0,0.05,ChatGPT
+334,Possible,mild,1,0.2,ChatGPT
+335,Possible,mild,0,0.19,ChatGPT
+336,Common,severe,1,0.12,ChatGPT
+337,Common,severe,0,0.2,ChatGPT
+338,Common,mild,1,0.2,ChatGPT
+339,Common,mild,0,0.4,ChatGPT
+340,Very Common,severe,1,0.3,ChatGPT
+341,Very Common,severe,0,0.7,ChatGPT
+342,Very Common,mild,1,0.2,ChatGPT
+343,Very Common,mild,0,0.8,ChatGPT
+344,Probable,severe,1,0.7,ChatGPT
+345,Probable,severe,0,0.7,ChatGPT
+346,Probable,mild,1,0.7,ChatGPT
+347,Probable,mild,0,0.7,ChatGPT
+348,Likely,severe,1,0.7,ChatGPT
+349,Likely,severe,0,0.7,ChatGPT
+350,Likely,mild,1,0.7,ChatGPT
+351,Likely,mild,0,0.6,ChatGPT
+352,Usual,severe,1,0.5,ChatGPT
+353,Usual,severe,0,0.3,ChatGPT
+354,Usual,mild,1,0.2,ChatGPT
+355,Usual,mild,0,0.5,ChatGPT
+356,Very Likely,severe,1,0.75,ChatGPT
+357,Very Likely,severe,0,0.7,ChatGPT
+358,Very Likely,mild,1,0.75,ChatGPT
+359,Very Likely,mild,0,0.75,ChatGPT
+360,Rare,severe,1,0.02,ChatGPT
+361,Rare,severe,0,0.01,ChatGPT
+362,Rare,mild,1,0.05,ChatGPT
+363,Rare,mild,0,0.05,ChatGPT
+364,Uncommon,severe,1,0.1,ChatGPT
+365,Uncommon,severe,0,0.05,ChatGPT
+366,Uncommon,mild,1,0.1,ChatGPT
+367,Uncommon,mild,0,0.08,ChatGPT
+368,Unlikely,severe,1,0.05,ChatGPT
+369,Unlikely,severe,0,0.25,ChatGPT
+370,Unlikely,mild,1,0.2,ChatGPT
+371,Unlikely,mild,0,0.15,ChatGPT
+372,Possible,severe,1,0.05,ChatGPT
+373,Possible,severe,0,0.2,ChatGPT
+374,Possible,mild,1,0.2,ChatGPT
+375,Possible,mild,0,0.5,ChatGPT
+376,Common,severe,1,0.3,ChatGPT
+377,Common,severe,0,0.4,ChatGPT
+378,Common,mild,1,0.5,ChatGPT
+379,Common,mild,0,0.4,ChatGPT
+380,Very Common,severe,1,0.2,ChatGPT
+381,Very Common,severe,0,0.3,ChatGPT
+382,Very Common,mild,1,0.5,ChatGPT
+383,Very Common,mild,0,0.6,ChatGPT
+384,Probable,severe,1,0.7,ChatGPT
+385,Probable,severe,0,0.7,ChatGPT
+386,Probable,mild,1,0.7,ChatGPT
+387,Probable,mild,0,0.7,ChatGPT
+388,Likely,severe,1,0.7,ChatGPT
+389,Likely,severe,0,0.7,ChatGPT
+390,Likely,mild,1,0.6,ChatGPT
+391,Likely,mild,0,0.7,ChatGPT
+392,Usual,severe,1,0.3,ChatGPT
+393,Usual,severe,0,0.25,ChatGPT
+394,Usual,mild,1,0.2,ChatGPT
+395,Usual,mild,0,0.3,ChatGPT
+396,Very Likely,severe,1,0.8,ChatGPT
+397,Very Likely,severe,0,0.7,ChatGPT
+398,Very Likely,mild,1,0.8,ChatGPT
+399,Very Likely,mild,0,0.7,ChatGPT
+400,Rare,severe,1,0.05,ChatGPT
+401,Rare,severe,0,0.05,ChatGPT
+402,Rare,mild,1,0.05,ChatGPT
+403,Rare,mild,0,0.05,ChatGPT
+404,Uncommon,severe,1,0.05,ChatGPT
+405,Uncommon,severe,0,0.05,ChatGPT
+406,Uncommon,mild,1,0.05,ChatGPT
+407,Uncommon,mild,0,0.1,ChatGPT
+408,Unlikely,severe,1,0.05,ChatGPT
+409,Unlikely,severe,0,0.3,ChatGPT
+410,Unlikely,mild,1,0.1,ChatGPT
+411,Unlikely,mild,0,0.2,ChatGPT
+412,Possible,severe,1,0.2,ChatGPT
+413,Possible,severe,0,0.15,ChatGPT
+414,Possible,mild,1,0.1,ChatGPT
+415,Possible,mild,0,0.2,ChatGPT
+416,Common,severe,1,0.25,ChatGPT
+417,Common,severe,0,0.2,ChatGPT
+418,Common,mild,1,0.75,ChatGPT
+419,Common,mild,0,0.4,ChatGPT
+420,Very Common,severe,1,0.3,ChatGPT
+421,Very Common,severe,0,0.4,ChatGPT
+422,Very Common,mild,1,0.7,ChatGPT
+423,Very Common,mild,0,0.7,ChatGPT
+424,Probable,severe,1,0.7,ChatGPT
+425,Probable,severe,0,0.7,ChatGPT
+426,Probable,mild,1,0.7,ChatGPT
+427,Probable,mild,0,0.7,ChatGPT
+428,Likely,severe,1,0.6,ChatGPT
+429,Likely,severe,0,0.6,ChatGPT
+430,Likely,mild,1,0.7,ChatGPT
+431,Likely,mild,0,0.6,ChatGPT
+432,Usual,severe,1,0.5,ChatGPT
+433,Usual,severe,0,0.5,ChatGPT
+434,Usual,mild,1,0.5,ChatGPT
+435,Usual,mild,0,0.6,ChatGPT
+436,Very Likely,severe,1,0.8,ChatGPT
+437,Very Likely,severe,0,0.8,ChatGPT
+438,Very Likely,mild,1,0.75,ChatGPT
+439,Very Likely,mild,0,0.7,ChatGPT
+440,Rare,severe,1,0.04,ChatGPT
+441,Rare,severe,0,0.01,ChatGPT
+442,Rare,mild,1,0.05,ChatGPT
+443,Rare,mild,0,0.05,ChatGPT
+444,Uncommon,severe,1,0.05,ChatGPT
+445,Uncommon,severe,0,0.1,ChatGPT
+446,Uncommon,mild,1,0.05,ChatGPT
+447,Uncommon,mild,0,0.1,ChatGPT
+448,Unlikely,severe,1,0.1,ChatGPT
+449,Unlikely,severe,0,0.15,ChatGPT
+450,Unlikely,mild,1,0.2,ChatGPT
+451,Unlikely,mild,0,0.2,ChatGPT
+452,Possible,severe,1,0.3,ChatGPT
+453,Possible,severe,0,0.2,ChatGPT
+454,Possible,mild,1,0.25,ChatGPT
+455,Possible,mild,0,0.3,ChatGPT
+456,Common,severe,1,0.3,ChatGPT
+457,Common,severe,0,0.2,ChatGPT
+458,Common,mild,1,0.25,ChatGPT
+459,Common,mild,0,0.3,ChatGPT
+460,Very Common,severe,1,0.2,ChatGPT
+461,Very Common,severe,0,0.7,ChatGPT
+462,Very Common,mild,1,0.65,ChatGPT
+463,Very Common,mild,0,0.75,ChatGPT
+464,Probable,severe,1,0.6,ChatGPT
+465,Probable,severe,0,0.75,ChatGPT
+466,Probable,mild,1,0.6,ChatGPT
+467,Probable,mild,0,0.7,ChatGPT
+468,Likely,severe,1,0.7,ChatGPT
+469,Likely,severe,0,0.6,ChatGPT
+470,Likely,mild,1,0.7,ChatGPT
+471,Likely,mild,0,0.7,ChatGPT
+472,Usual,severe,1,0.5,ChatGPT
+473,Usual,severe,0,0.7,ChatGPT
+474,Usual,mild,1,0.3,ChatGPT
+475,Usual,mild,0,0.5,ChatGPT
+476,Very Likely,severe,1,0.75,ChatGPT
+477,Very Likely,severe,0,0.7,ChatGPT
+478,Very Likely,mild,1,0.85,ChatGPT
+479,Very Likely,mild,0,0.8,ChatGPT
+480,Rare,severe,1,0.01,ChatGPT
+481,Rare,severe,0,0.05,ChatGPT
+482,Rare,mild,1,0.01,ChatGPT
+483,Rare,mild,0,0.05,ChatGPT
+484,Uncommon,severe,1,0.1,ChatGPT
+485,Uncommon,severe,0,0.1,ChatGPT
+486,Uncommon,mild,1,0.2,ChatGPT
+487,Uncommon,mild,0,0.1,ChatGPT
+488,Unlikely,severe,1,0.1,ChatGPT
+489,Unlikely,severe,0,0.2,ChatGPT
+490,Unlikely,mild,1,0.1,ChatGPT
+491,Unlikely,mild,0,0.15,ChatGPT
+492,Possible,severe,1,0.3,ChatGPT
+493,Possible,severe,0,0.2,ChatGPT
+494,Possible,mild,1,0.25,ChatGPT
+495,Possible,mild,0,0.2,ChatGPT
+496,Common,severe,1,0.15,ChatGPT
+497,Common,severe,0,0.25,ChatGPT
+498,Common,mild,1,0.3,ChatGPT
+499,Common,mild,0,0.3,ChatGPT
+500,Very Common,severe,1,0.35,ChatGPT
+501,Very Common,severe,0,0.6,ChatGPT
+502,Very Common,mild,1,0.25,ChatGPT
+503,Very Common,mild,0,0.7,ChatGPT
+504,Probable,severe,1,0.7,ChatGPT
+505,Probable,severe,0,0.6,ChatGPT
+506,Probable,mild,1,0.7,ChatGPT
+507,Probable,mild,0,0.7,ChatGPT
+508,Likely,severe,1,0.45,ChatGPT
+509,Likely,severe,0,0.6,ChatGPT
+510,Likely,mild,1,0.7,ChatGPT
+511,Likely,mild,0,0.6,ChatGPT
+512,Usual,severe,1,0.5,ChatGPT
+513,Usual,severe,0,0.5,ChatGPT
+514,Usual,mild,1,0.25,ChatGPT
+515,Usual,mild,0,0.5,ChatGPT
+516,Very Likely,severe,1,0.8,ChatGPT
+517,Very Likely,severe,0,0.8,ChatGPT
+518,Very Likely,mild,1,0.75,ChatGPT
+519,Very Likely,mild,0,0.8,ChatGPT
+520,Rare,severe,1,0.01,ChatGPT
+521,Rare,severe,0,0.01,ChatGPT
+522,Rare,mild,1,0.05,ChatGPT
+523,Rare,mild,0,0.05,ChatGPT
+524,Uncommon,severe,1,0.05,ChatGPT
+525,Uncommon,severe,0,0.05,ChatGPT
+526,Uncommon,mild,1,0.05,ChatGPT
+527,Uncommon,mild,0,0.1,ChatGPT
+528,Unlikely,severe,1,0.05,ChatGPT
+529,Unlikely,severe,0,0.25,ChatGPT
+530,Unlikely,mild,1,0.15,ChatGPT
+531,Unlikely,mild,0,0.2,ChatGPT
+532,Possible,severe,1,0.2,ChatGPT
+533,Possible,severe,0,0.1,ChatGPT
+534,Possible,mild,1,0.15,ChatGPT
+535,Possible,mild,0,0.2,ChatGPT
+536,Common,severe,1,0.1,ChatGPT
+537,Common,severe,0,0.2,ChatGPT
+538,Common,mild,1,0.3,ChatGPT
+539,Common,mild,0,0.4,ChatGPT
+540,Very Common,severe,1,0.2,ChatGPT
+541,Very Common,severe,0,0.75,ChatGPT
+542,Very Common,mild,1,0.5,ChatGPT
+543,Very Common,mild,0,0.7,ChatGPT
+544,Probable,severe,1,0.7,ChatGPT
+545,Probable,severe,0,0.7,ChatGPT
+546,Probable,mild,1,0.7,ChatGPT
+547,Probable,mild,0,0.7,ChatGPT
+548,Likely,severe,1,0.7,ChatGPT
+549,Likely,severe,0,0.7,ChatGPT
+550,Likely,mild,1,0.75,ChatGPT
+551,Likely,mild,0,0.6,ChatGPT
+552,Usual,severe,1,0.7,ChatGPT
+553,Usual,severe,0,0.5,ChatGPT
+554,Usual,mild,1,0.7,ChatGPT
+555,Usual,mild,0,0.75,ChatGPT
+556,Very Likely,severe,1,0.8,ChatGPT
+557,Very Likely,severe,0,0.8,ChatGPT
+558,Very Likely,mild,1,0.8,ChatGPT
+559,Very Likely,mild,0,0.8,ChatGPT
+560,Rare,severe,1,0.05,ChatGPT
+561,Rare,severe,0,0.09,ChatGPT
+562,Rare,mild,1,0.05,ChatGPT
+563,Rare,mild,0,0.05,ChatGPT
+564,Uncommon,severe,1,0.05,ChatGPT
+565,Uncommon,severe,0,0.05,ChatGPT
+566,Uncommon,mild,1,0.1,ChatGPT
+567,Uncommon,mild,0,0.1,ChatGPT
+568,Unlikely,severe,1,0.1,ChatGPT
+569,Unlikely,severe,0,0.2,ChatGPT
+570,Unlikely,mild,1,0.15,ChatGPT
+571,Unlikely,mild,0,0.1,ChatGPT
+572,Possible,severe,1,0.05,ChatGPT
+573,Possible,severe,0,0.25,ChatGPT
+574,Possible,mild,1,0.3,ChatGPT
+575,Possible,mild,0,0.35,ChatGPT
+576,Common,severe,1,0.2,ChatGPT
+577,Common,severe,0,0.4,ChatGPT
+578,Common,mild,1,0.3,ChatGPT
+579,Common,mild,0,0.4,ChatGPT
+580,Very Common,severe,1,0.3,ChatGPT
+581,Very Common,severe,0,0.4,ChatGPT
+582,Very Common,mild,1,0.4,ChatGPT
+583,Very Common,mild,0,0.75,ChatGPT
+584,Probable,severe,1,0.7,ChatGPT
+585,Probable,severe,0,0.7,ChatGPT
+586,Probable,mild,1,0.7,ChatGPT
+587,Probable,mild,0,0.6,ChatGPT
+588,Likely,severe,1,0.7,ChatGPT
+589,Likely,severe,0,0.7,ChatGPT
+590,Likely,mild,1,0.7,ChatGPT
+591,Likely,mild,0,0.7,ChatGPT
+592,Usual,severe,1,0.5,ChatGPT
+593,Usual,severe,0,0.2,ChatGPT
+594,Usual,mild,1,0.3,ChatGPT
+595,Usual,mild,0,0.5,ChatGPT
+596,Very Likely,severe,1,0.9,ChatGPT
+597,Very Likely,severe,0,0.7,ChatGPT
+598,Very Likely,mild,1,0.8,ChatGPT
+599,Very Likely,mild,0,0.8,ChatGPT
+600,Rare,severe,1,0.01,ChatGPT
+601,Rare,severe,0,0.05,ChatGPT
+602,Rare,mild,1,0.05,ChatGPT
+603,Rare,mild,0,0.05,ChatGPT
+604,Uncommon,severe,1,0.05,ChatGPT
+605,Uncommon,severe,0,0.05,ChatGPT
+606,Uncommon,mild,1,0.1,ChatGPT
+607,Uncommon,mild,0,0.1,ChatGPT
+608,Unlikely,severe,1,0.05,ChatGPT
+609,Unlikely,severe,0,0.2,ChatGPT
+610,Unlikely,mild,1,0.2,ChatGPT
+611,Unlikely,mild,0,0.1,ChatGPT
+612,Possible,severe,1,0.2,ChatGPT
+613,Possible,severe,0,0.3,ChatGPT
+614,Possible,mild,1,0.2,ChatGPT
+615,Possible,mild,0,0.2,ChatGPT
+616,Common,severe,1,0.2,ChatGPT
+617,Common,severe,0,0.25,ChatGPT
+618,Common,mild,1,0.3,ChatGPT
+619,Common,mild,0,0.3,ChatGPT
+620,Very Common,severe,1,0.25,ChatGPT
+621,Very Common,severe,0,0.35,ChatGPT
+622,Very Common,mild,1,0.2,ChatGPT
+623,Very Common,mild,0,0.7,ChatGPT
+624,Probable,severe,1,0.6,ChatGPT
+625,Probable,severe,0,0.7,ChatGPT
+626,Probable,mild,1,0.7,ChatGPT
+627,Probable,mild,0,0.7,ChatGPT
+628,Likely,severe,1,0.7,ChatGPT
+629,Likely,severe,0,0.7,ChatGPT
+630,Likely,mild,1,0.7,ChatGPT
+631,Likely,mild,0,0.7,ChatGPT
+632,Usual,severe,1,0.5,ChatGPT
+633,Usual,severe,0,0.5,ChatGPT
+634,Usual,mild,1,0.5,ChatGPT
+635,Usual,mild,0,0.5,ChatGPT
+636,Very Likely,severe,1,0.75,ChatGPT
+637,Very Likely,severe,0,0.8,ChatGPT
+638,Very Likely,mild,1,0.8,ChatGPT
+639,Very Likely,mild,0,0.8,ChatGPT
+640,Rare,severe,1,0.03,ChatGPT
+641,Rare,severe,0,0.01,ChatGPT
+642,Rare,mild,1,0.05,ChatGPT
+643,Rare,mild,0,0.05,ChatGPT
+644,Uncommon,severe,1,0.05,ChatGPT
+645,Uncommon,severe,0,0.05,ChatGPT
+646,Uncommon,mild,1,0.1,ChatGPT
+647,Uncommon,mild,0,0.1,ChatGPT
+648,Unlikely,severe,1,0.05,ChatGPT
+649,Unlikely,severe,0,0.2,ChatGPT
+650,Unlikely,mild,1,0.1,ChatGPT
+651,Unlikely,mild,0,0.2,ChatGPT
+652,Possible,severe,1,0.1,ChatGPT
+653,Possible,severe,0,0.25,ChatGPT
+654,Possible,mild,1,0.2,ChatGPT
+655,Possible,mild,0,0.25,ChatGPT
+656,Common,severe,1,0.2,ChatGPT
+657,Common,severe,0,0.2,ChatGPT
+658,Common,mild,1,0.25,ChatGPT
+659,Common,mild,0,0.4,ChatGPT
+660,Very Common,severe,1,0.2,ChatGPT
+661,Very Common,severe,0,0.2,ChatGPT
+662,Very Common,mild,1,0.5,ChatGPT
+663,Very Common,mild,0,0.6,ChatGPT
+664,Probable,severe,1,0.75,ChatGPT
+665,Probable,severe,0,0.7,ChatGPT
+666,Probable,mild,1,0.7,ChatGPT
+667,Probable,mild,0,0.7,ChatGPT
+668,Likely,severe,1,0.7,ChatGPT
+669,Likely,severe,0,0.7,ChatGPT
+670,Likely,mild,1,0.7,ChatGPT
+671,Likely,mild,0,0.7,ChatGPT
+672,Usual,severe,1,0.5,ChatGPT
+673,Usual,severe,0,0.5,ChatGPT
+674,Usual,mild,1,0.75,ChatGPT
+675,Usual,mild,0,0.5,ChatGPT
+676,Very Likely,severe,1,0.7,ChatGPT
+677,Very Likely,severe,0,0.7,ChatGPT
+678,Very Likely,mild,1,0.8,ChatGPT
+679,Very Likely,mild,0,0.8,ChatGPT
+680,Rare,severe,1,0.01,ChatGPT
+681,Rare,severe,0,0.02,ChatGPT
+682,Rare,mild,1,0.05,ChatGPT
+683,Rare,mild,0,0.01,ChatGPT
+684,Uncommon,severe,1,0.05,ChatGPT
+685,Uncommon,severe,0,0.05,ChatGPT
+686,Uncommon,mild,1,0.1,ChatGPT
+687,Uncommon,mild,0,0.15,ChatGPT
+688,Unlikely,severe,1,0.05,ChatGPT
+689,Unlikely,severe,0,0.2,ChatGPT
+690,Unlikely,mild,1,0.15,ChatGPT
+691,Unlikely,mild,0,0.25,ChatGPT
+692,Possible,severe,1,0.2,ChatGPT
+693,Possible,severe,0,0.2,ChatGPT
+694,Possible,mild,1,0.2,ChatGPT
+695,Possible,mild,0,0.3,ChatGPT
+696,Common,severe,1,0.2,ChatGPT
+697,Common,severe,0,0.35,ChatGPT
+698,Common,mild,1,0.4,ChatGPT
+699,Common,mild,0,0.4,ChatGPT
+700,Very Common,severe,1,0.25,ChatGPT
+701,Very Common,severe,0,0.2,ChatGPT
+702,Very Common,mild,1,0.75,ChatGPT
+703,Very Common,mild,0,0.6,ChatGPT
+704,Probable,severe,1,0.7,ChatGPT
+705,Probable,severe,0,0.6,ChatGPT
+706,Probable,mild,1,0.7,ChatGPT
+707,Probable,mild,0,0.7,ChatGPT
+708,Likely,severe,1,0.7,ChatGPT
+709,Likely,severe,0,0.7,ChatGPT
+710,Likely,mild,1,0.75,ChatGPT
+711,Likely,mild,0,0.75,ChatGPT
+712,Usual,severe,1,0.1,ChatGPT
+713,Usual,severe,0,0.5,ChatGPT
+714,Usual,mild,1,0.2,ChatGPT
+715,Usual,mild,0,0.5,ChatGPT
+716,Very Likely,severe,1,0.75,ChatGPT
+717,Very Likely,severe,0,0.7,ChatGPT
+718,Very Likely,mild,1,0.75,ChatGPT
+719,Very Likely,mild,0,0.8,ChatGPT
+720,Rare,severe,1,0.02,ChatGPT
+721,Rare,severe,0,0.05,ChatGPT
+722,Rare,mild,1,0.05,ChatGPT
+723,Rare,mild,0,0.05,ChatGPT
+724,Uncommon,severe,1,0.05,ChatGPT
+725,Uncommon,severe,0,0.05,ChatGPT
+726,Uncommon,mild,1,0.05,ChatGPT
+727,Uncommon,mild,0,0.05,ChatGPT
+728,Unlikely,severe,1,0.05,ChatGPT
+729,Unlikely,severe,0,0.25,ChatGPT
+730,Unlikely,mild,1,0.2,ChatGPT
+731,Unlikely,mild,0,0.2,ChatGPT
+732,Possible,severe,1,0.2,ChatGPT
+733,Possible,severe,0,0.2,ChatGPT
+734,Possible,mild,1,0.3,ChatGPT
+735,Possible,mild,0,0.2,ChatGPT
+736,Common,severe,1,0.2,ChatGPT
+737,Common,severe,0,0.3,ChatGPT
+738,Common,mild,1,0.25,ChatGPT
+739,Common,mild,0,0.4,ChatGPT
+740,Very Common,severe,1,0.8,ChatGPT
+741,Very Common,severe,0,0.3,ChatGPT
+742,Very Common,mild,1,0.65,ChatGPT
+743,Very Common,mild,0,0.5,ChatGPT
+744,Probable,severe,1,0.7,ChatGPT
+745,Probable,severe,0,0.7,ChatGPT
+746,Probable,mild,1,0.6,ChatGPT
+747,Probable,mild,0,0.75,ChatGPT
+748,Likely,severe,1,0.65,ChatGPT
+749,Likely,severe,0,0.75,ChatGPT
+750,Likely,mild,1,0.7,ChatGPT
+751,Likely,mild,0,0.75,ChatGPT
+752,Usual,severe,1,0.5,ChatGPT
+753,Usual,severe,0,0.5,ChatGPT
+754,Usual,mild,1,0.5,ChatGPT
+755,Usual,mild,0,0.5,ChatGPT
+756,Very Likely,severe,1,0.8,ChatGPT
+757,Very Likely,severe,0,0.7,ChatGPT
+758,Very Likely,mild,1,0.9,ChatGPT
+759,Very Likely,mild,0,0.8,ChatGPT
+760,Rare,severe,1,0.05,ChatGPT
+761,Rare,severe,0,0.05,ChatGPT
+762,Rare,mild,1,0.05,ChatGPT
+763,Rare,mild,0,0.05,ChatGPT
+764,Uncommon,severe,1,0.05,ChatGPT
+765,Uncommon,severe,0,0.05,ChatGPT
+766,Uncommon,mild,1,0.05,ChatGPT
+767,Uncommon,mild,0,0.05,ChatGPT
+768,Unlikely,severe,1,0.2,ChatGPT
+769,Unlikely,severe,0,0.1,ChatGPT
+770,Unlikely,mild,1,0.1,ChatGPT
+771,Unlikely,mild,0,0.25,ChatGPT
+772,Possible,severe,1,,ChatGPT
+773,Possible,severe,0,0.4,ChatGPT
+774,Possible,mild,1,0.25,ChatGPT
+775,Possible,mild,0,0.2,ChatGPT
+776,Common,severe,1,0.3,ChatGPT
+777,Common,severe,0,0.4,ChatGPT
+778,Common,mild,1,0.2,ChatGPT
+779,Common,mild,0,0.3,ChatGPT
+780,Very Common,severe,1,0.35,ChatGPT
+781,Very Common,severe,0,0.6,ChatGPT
+782,Very Common,mild,1,0.4,ChatGPT
+783,Very Common,mild,0,0.3,ChatGPT
+784,Probable,severe,1,0.6,ChatGPT
+785,Probable,severe,0,0.6,ChatGPT
+786,Probable,mild,1,0.7,ChatGPT
+787,Probable,mild,0,0.7,ChatGPT
+788,Likely,severe,1,0.68,ChatGPT
+789,Likely,severe,0,0.6,ChatGPT
+790,Likely,mild,1,0.7,ChatGPT
+791,Likely,mild,0,0.7,ChatGPT
+792,Usual,severe,1,0.5,ChatGPT
+793,Usual,severe,0,0.25,ChatGPT
+794,Usual,mild,1,0.3,ChatGPT
+795,Usual,mild,0,0.5,ChatGPT
+796,Very Likely,severe,1,0.75,ChatGPT
+797,Very Likely,severe,0,0.8,ChatGPT
+798,Very Likely,mild,1,0.75,ChatGPT
+799,Very Likely,mild,0,0.75,ChatGPT
+0,Rare,severe,1,0.02,Claude
+1,Rare,severe,0,0.03,Claude
+2,Rare,mild,1,0.04,Claude
+3,Rare,mild,0,0.05,Claude
+4,Uncommon,severe,1,0.003,Claude
+5,Uncommon,severe,0,0.15,Claude
+6,Uncommon,mild,1,0.05,Claude
+7,Uncommon,mild,0,0.15,Claude
+8,Unlikely,severe,1,0.01,Claude
+9,Unlikely,severe,0,0.2,Claude
+10,Unlikely,mild,1,0.15,Claude
+11,Unlikely,mild,0,0.15,Claude
+12,Possible,severe,1,0.01,Claude
+13,Possible,severe,0,0.15,Claude
+14,Possible,mild,1,0.1,Claude
+15,Possible,mild,0,0.25,Claude
+16,Common,severe,1,0.004,Claude
+17,Common,severe,0,0.2,Claude
+18,Common,mild,1,0.15,Claude
+19,Common,mild,0,0.15,Claude
+20,Very Common,severe,1,0.08,Claude
+21,Very Common,severe,0,0.12,Claude
+22,Very Common,mild,1,0.15,Claude
+23,Very Common,mild,0,0.35,Claude
+24,Probable,severe,1,0.05,Claude
+25,Probable,severe,0,0.65,Claude
+26,Probable,mild,1,0.6,Claude
+27,Probable,mild,0,0.7,Claude
+28,Likely,severe,1,0.05,Claude
+29,Likely,severe,0,0.65,Claude
+30,Likely,mild,1,0.35,Claude
+31,Likely,mild,0,0.65,Claude
+32,Usual,severe,1,0.04,Claude
+33,Usual,severe,0,0.003,Claude
+34,Usual,mild,1,0.1,Claude
+35,Usual,mild,0,0.1,Claude
+36,Very Likely,severe,1,0.05,Claude
+37,Very Likely,severe,0,0.8,Claude
+38,Very Likely,mild,1,0.3,Claude
+39,Very Likely,mild,0,0.85,Claude
+40,Rare,severe,1,0.003,Claude
+41,Rare,severe,0,0.05,Claude
+42,Rare,mild,1,0.04,Claude
+43,Rare,mild,0,0.05,Claude
+44,Uncommon,severe,1,0.004,Claude
+45,Uncommon,severe,0,0.15,Claude
+46,Uncommon,mild,1,0.08,Claude
+47,Uncommon,mild,0,0.15,Claude
+48,Unlikely,severe,1,0.03,Claude
+49,Unlikely,severe,0,0.15,Claude
+50,Unlikely,mild,1,0.15,Claude
+51,Unlikely,mild,0,0.2,Claude
+52,Possible,severe,1,0.03,Claude
+53,Possible,severe,0,0.15,Claude
+54,Possible,mild,1,0.08,Claude
+55,Possible,mild,0,0.2,Claude
+56,Common,severe,1,0.03,Claude
+57,Common,severe,0,0.03,Claude
+58,Common,mild,1,0.15,Claude
+59,Common,mild,0,0.15,Claude
+60,Very Common,severe,1,0.02,Claude
+61,Very Common,severe,0,0.4,Claude
+62,Very Common,mild,1,0.15,Claude
+63,Very Common,mild,0,0.65,Claude
+64,Probable,severe,1,0.15,Claude
+65,Probable,severe,0,0.75,Claude
+66,Probable,mild,1,0.45,Claude
+67,Probable,mild,0,0.65,Claude
+68,Likely,severe,1,0.17,Claude
+69,Likely,severe,0,0.65,Claude
+70,Likely,mild,1,0.3,Claude
+71,Likely,mild,0,0.75,Claude
+72,Usual,severe,1,0.1,Claude
+73,Usual,severe,0,0.05,Claude
+74,Usual,mild,1,0.2,Claude
+75,Usual,mild,0,0.15,Claude
+76,Very Likely,severe,1,0.05,Claude
+77,Very Likely,severe,0,0.8,Claude
+78,Very Likely,mild,1,0.85,Claude
+79,Very Likely,mild,0,0.75,Claude
+80,Rare,severe,1,0.03,Claude
+81,Rare,severe,0,0.01,Claude
+82,Rare,mild,1,0.02,Claude
+83,Rare,mild,0,0.05,Claude
+84,Uncommon,severe,1,0.004,Claude
+85,Uncommon,severe,0,0.05,Claude
+86,Uncommon,mild,1,0.05,Claude
+87,Uncommon,mild,0,0.15,Claude
+88,Unlikely,severe,1,0.02,Claude
+89,Unlikely,severe,0,0.15,Claude
+90,Unlikely,mild,1,0.15,Claude
+91,Unlikely,mild,0,0.25,Claude
+92,Possible,severe,1,0.004,Claude
+93,Possible,severe,0,0.35,Claude
+94,Possible,mild,1,0.08,Claude
+95,Possible,mild,0,0.3,Claude
+96,Common,severe,1,0.018000000000000002,Claude
+97,Common,severe,0,0.15,Claude
+98,Common,mild,1,0.08,Claude
+99,Common,mild,0,0.2,Claude
+100,Very Common,severe,1,0.02,Claude
+101,Very Common,severe,0,0.65,Claude
+102,Very Common,mild,1,0.15,Claude
+103,Very Common,mild,0,0.35,Claude
+104,Probable,severe,1,0.15,Claude
+105,Probable,severe,0,0.65,Claude
+106,Probable,mild,1,0.3,Claude
+107,Probable,mild,0,0.75,Claude
+108,Likely,severe,1,0.05,Claude
+109,Likely,severe,0,0.75,Claude
+110,Likely,mild,1,0.55,Claude
+111,Likely,mild,0,0.7,Claude
+112,Usual,severe,1,0.002,Claude
+113,Usual,severe,0,0.02,Claude
+114,Usual,mild,1,0.25,Claude
+115,Usual,mild,0,0.15,Claude
+116,Very Likely,severe,1,0.05,Claude
+117,Very Likely,severe,0,0.8,Claude
+118,Very Likely,mild,1,0.7,Claude
+119,Very Likely,mild,0,0.75,Claude
+120,Rare,severe,1,0.03,Claude
+121,Rare,severe,0,0.05,Claude
+122,Rare,mild,1,0.05,Claude
+123,Rare,mild,0,0.05,Claude
+124,Uncommon,severe,1,0.002,Claude
+125,Uncommon,severe,0,0.15,Claude
+126,Uncommon,mild,1,0.04,Claude
+127,Uncommon,mild,0,0.15,Claude
+128,Unlikely,severe,1,0.02,Claude
+129,Unlikely,severe,0,0.2,Claude
+130,Unlikely,mild,1,0.15,Claude
+131,Unlikely,mild,0,0.2,Claude
+132,Possible,severe,1,0.013000000000000001,Claude
+133,Possible,severe,0,0.2,Claude
+134,Possible,mild,1,0.08,Claude
+135,Possible,mild,0,0.35,Claude
+136,Common,severe,1,0.03,Claude
+137,Common,severe,0,0.2,Claude
+138,Common,mild,1,0.08,Claude
+139,Common,mild,0,0.2,Claude
+140,Very Common,severe,1,0.002,Claude
+141,Very Common,severe,0,0.15,Claude
+142,Very Common,mild,1,0.15,Claude
+143,Very Common,mild,0,0.35,Claude
+144,Probable,severe,1,0.2,Claude
+145,Probable,severe,0,0.65,Claude
+146,Probable,mild,1,0.25,Claude
+147,Probable,mild,0,0.7,Claude
+148,Likely,severe,1,0.15,Claude
+149,Likely,severe,0,0.75,Claude
+150,Likely,mild,1,0.25,Claude
+151,Likely,mild,0,0.65,Claude
+152,Usual,severe,1,0.12,Claude
+153,Usual,severe,0,0.03,Claude
+154,Usual,mild,1,0.2,Claude
+155,Usual,mild,0,0.2,Claude
+156,Very Likely,severe,1,0.15,Claude
+157,Very Likely,severe,0,0.75,Claude
+158,Very Likely,mild,1,0.25,Claude
+159,Very Likely,mild,0,0.85,Claude
+160,Rare,severe,1,0.01,Claude
+161,Rare,severe,0,0.01,Claude
+162,Rare,mild,1,0.08,Claude
+163,Rare,mild,0,0.03,Claude
+164,Uncommon,severe,1,0.002,Claude
+165,Uncommon,severe,0,0.15,Claude
+166,Uncommon,mild,1,0.05,Claude
+167,Uncommon,mild,0,0.15,Claude
+168,Unlikely,severe,1,0.02,Claude
+169,Unlikely,severe,0,0.2,Claude
+170,Unlikely,mild,1,0.05,Claude
+171,Unlikely,mild,0,0.25,Claude
+172,Possible,severe,1,0.01,Claude
+173,Possible,severe,0,0.15,Claude
+174,Possible,mild,1,0.08,Claude
+175,Possible,mild,0,0.3,Claude
+176,Common,severe,1,0.1,Claude
+177,Common,severe,0,0.08,Claude
+178,Common,mild,1,0.1,Claude
+179,Common,mild,0,0.2,Claude
+180,Very Common,severe,1,0.008,Claude
+181,Very Common,severe,0,0.35,Claude
+182,Very Common,mild,1,0.15,Claude
+183,Very Common,mild,0,0.35,Claude
+184,Probable,severe,1,0.25,Claude
+185,Probable,severe,0,0.65,Claude
+186,Probable,mild,1,0.25,Claude
+187,Probable,mild,0,0.75,Claude
+188,Likely,severe,1,0.05,Claude
+189,Likely,severe,0,0.75,Claude
+190,Likely,mild,1,0.3,Claude
+191,Likely,mild,0,0.65,Claude
+192,Usual,severe,1,0.12,Claude
+193,Usual,severe,0,0.02,Claude
+194,Usual,mild,1,0.25,Claude
+195,Usual,mild,0,0.09,Claude
+196,Very Likely,severe,1,0.25,Claude
+197,Very Likely,severe,0,0.85,Claude
+198,Very Likely,mild,1,0.6,Claude
+199,Very Likely,mild,0,0.8,Claude
+200,Rare,severe,1,0.02,Claude
+201,Rare,severe,0,0.01,Claude
+202,Rare,mild,1,0.05,Claude
+203,Rare,mild,0,0.05,Claude
+204,Uncommon,severe,1,0.01,Claude
+205,Uncommon,severe,0,0.15,Claude
+206,Uncommon,mild,1,0.08,Claude
+207,Uncommon,mild,0,0.15,Claude
+208,Unlikely,severe,1,0.01,Claude
+209,Unlikely,severe,0,0.2,Claude
+210,Unlikely,mild,1,0.15,Claude
+211,Unlikely,mild,0,0.25,Claude
+212,Possible,severe,1,0.02,Claude
+213,Possible,severe,0,0.2,Claude
+214,Possible,mild,1,0.08,Claude
+215,Possible,mild,0,0.15,Claude
+216,Common,severe,1,0.01,Claude
+217,Common,severe,0,0.35,Claude
+218,Common,mild,1,0.15,Claude
+219,Common,mild,0,0.15,Claude
+220,Very Common,severe,1,0.008,Claude
+221,Very Common,severe,0,0.7,Claude
+222,Very Common,mild,1,0.15,Claude
+223,Very Common,mild,0,0.55,Claude
+224,Probable,severe,1,0.05,Claude
+225,Probable,severe,0,0.75,Claude
+226,Probable,mild,1,0.3,Claude
+227,Probable,mild,0,0.65,Claude
+228,Likely,severe,1,0.1,Claude
+229,Likely,severe,0,0.75,Claude
+230,Likely,mild,1,0.2,Claude
+231,Likely,mild,0,0.75,Claude
+232,Usual,severe,1,0.01,Claude
+233,Usual,severe,0,0.02,Claude
+234,Usual,mild,1,0.1,Claude
+235,Usual,mild,0,0.15,Claude
+236,Very Likely,severe,1,0.08,Claude
+237,Very Likely,severe,0,0.8,Claude
+238,Very Likely,mild,1,0.35,Claude
+239,Very Likely,mild,0,0.75,Claude
+240,Rare,severe,1,0.02,Claude
+241,Rare,severe,0,0.02,Claude
+242,Rare,mild,1,0.02,Claude
+243,Rare,mild,0,0.01,Claude
+244,Uncommon,severe,1,0.001,Claude
+245,Uncommon,severe,0,0.15,Claude
+246,Uncommon,mild,1,0.08,Claude
+247,Uncommon,mild,0,0.15,Claude
+248,Unlikely,severe,1,0.03,Claude
+249,Unlikely,severe,0,0.15,Claude
+250,Unlikely,mild,1,0.15,Claude
+251,Unlikely,mild,0,0.25,Claude
+252,Possible,severe,1,0.006999999999999999,Claude
+253,Possible,severe,0,0.17,Claude
+254,Possible,mild,1,0.08,Claude
+255,Possible,mild,0,0.2,Claude
+256,Common,severe,1,0.08,Claude
+257,Common,severe,0,0.15,Claude
+258,Common,mild,1,0.06,Claude
+259,Common,mild,0,0.2,Claude
+260,Very Common,severe,1,0.03,Claude
+261,Very Common,severe,0,0.8,Claude
+262,Very Common,mild,1,0.15,Claude
+263,Very Common,mild,0,0.35,Claude
+264,Probable,severe,1,0.25,Claude
+265,Probable,severe,0,0.6,Claude
+266,Probable,mild,1,0.3,Claude
+267,Probable,mild,0,0.65,Claude
+268,Likely,severe,1,0.12,Claude
+269,Likely,severe,0,0.7,Claude
+270,Likely,mild,1,0.35,Claude
+271,Likely,mild,0,0.75,Claude
+272,Usual,severe,1,0.004,Claude
+273,Usual,severe,0,0.002,Claude
+274,Usual,mild,1,0.2,Claude
+275,Usual,mild,0,0.12,Claude
+276,Very Likely,severe,1,0.35,Claude
+277,Very Likely,severe,0,0.85,Claude
+278,Very Likely,mild,1,0.15,Claude
+279,Very Likely,mild,0,0.8,Claude
+280,Rare,severe,1,0.03,Claude
+281,Rare,severe,0,0.03,Claude
+282,Rare,mild,1,0.02,Claude
+283,Rare,mild,0,0.05,Claude
+284,Uncommon,severe,1,0.02,Claude
+285,Uncommon,severe,0,0.15,Claude
+286,Uncommon,mild,1,0.08,Claude
+287,Uncommon,mild,0,0.15,Claude
+288,Unlikely,severe,1,0.03,Claude
+289,Unlikely,severe,0,0.15,Claude
+290,Unlikely,mild,1,0.15,Claude
+291,Unlikely,mild,0,0.25,Claude
+292,Possible,severe,1,0.03,Claude
+293,Possible,severe,0,0.15,Claude
+294,Possible,mild,1,0.04,Claude
+295,Possible,mild,0,0.2,Claude
+296,Common,severe,1,0.05,Claude
+297,Common,severe,0,0.07,Claude
+298,Common,mild,1,0.07,Claude
+299,Common,mild,0,0.15,Claude
+300,Very Common,severe,1,0.08,Claude
+301,Very Common,severe,0,0.32,Claude
+302,Very Common,mild,1,0.15,Claude
+303,Very Common,mild,0,0.45,Claude
+304,Probable,severe,1,0.05,Claude
+305,Probable,severe,0,0.75,Claude
+306,Probable,mild,1,0.3,Claude
+307,Probable,mild,0,0.75,Claude
+308,Likely,severe,1,0.2,Claude
+309,Likely,severe,0,0.75,Claude
+310,Likely,mild,1,0.6,Claude
+311,Likely,mild,0,0.65,Claude
+312,Usual,severe,1,0.02,Claude
+313,Usual,severe,0,0.03,Claude
+314,Usual,mild,1,0.2,Claude
+315,Usual,mild,0,0.08,Claude
+316,Very Likely,severe,1,0.23,Claude
+317,Very Likely,severe,0,0.75,Claude
+318,Very Likely,mild,1,0.75,Claude
+319,Very Likely,mild,0,0.8,Claude
+320,Rare,severe,1,0.03,Claude
+321,Rare,severe,0,0.01,Claude
+322,Rare,mild,1,0.04,Claude
+323,Rare,mild,0,0.02,Claude
+324,Uncommon,severe,1,0.01,Claude
+325,Uncommon,severe,0,0.05,Claude
+326,Uncommon,mild,1,0.15,Claude
+327,Uncommon,mild,0,0.15,Claude
+328,Unlikely,severe,1,0.01,Claude
+329,Unlikely,severe,0,0.2,Claude
+330,Unlikely,mild,1,0.15,Claude
+331,Unlikely,mild,0,0.2,Claude
+332,Possible,severe,1,0.005,Claude
+333,Possible,severe,0,0.15,Claude
+334,Possible,mild,1,0.08,Claude
+335,Possible,mild,0,0.3,Claude
+336,Common,severe,1,0.1,Claude
+337,Common,severe,0,0.1,Claude
+338,Common,mild,1,0.1,Claude
+339,Common,mild,0,0.15,Claude
+340,Very Common,severe,1,0.01,Claude
+341,Very Common,severe,0,0.25,Claude
+342,Very Common,mild,1,0.06,Claude
+343,Very Common,mild,0,0.35,Claude
+344,Probable,severe,1,0.45,Claude
+345,Probable,severe,0,0.65,Claude
+346,Probable,mild,1,0.2,Claude
+347,Probable,mild,0,0.75,Claude
+348,Likely,severe,1,0.05,Claude
+349,Likely,severe,0,0.6,Claude
+350,Likely,mild,1,0.25,Claude
+351,Likely,mild,0,0.65,Claude
+352,Usual,severe,1,0.01,Claude
+353,Usual,severe,0,0.04,Claude
+354,Usual,mild,1,0.15,Claude
+355,Usual,mild,0,0.2,Claude
+356,Very Likely,severe,1,0.05,Claude
+357,Very Likely,severe,0,0.8,Claude
+358,Very Likely,mild,1,0.65,Claude
+359,Very Likely,mild,0,0.85,Claude
+360,Rare,severe,1,0.03,Claude
+361,Rare,severe,0,0.02,Claude
+362,Rare,mild,1,0.04,Claude
+363,Rare,mild,0,0.03,Claude
+364,Uncommon,severe,1,0.002,Claude
+365,Uncommon,severe,0,0.05,Claude
+366,Uncommon,mild,1,0.03,Claude
+367,Uncommon,mild,0,0.15,Claude
+368,Unlikely,severe,1,0.03,Claude
+369,Unlikely,severe,0,0.25,Claude
+370,Unlikely,mild,1,0.15,Claude
+371,Unlikely,mild,0,0.15,Claude
+372,Possible,severe,1,0.03,Claude
+373,Possible,severe,0,0.2,Claude
+374,Possible,mild,1,0.15,Claude
+375,Possible,mild,0,0.3,Claude
+376,Common,severe,1,0.013999999999999999,Claude
+377,Common,severe,0,0.15,Claude
+378,Common,mild,1,0.15,Claude
+379,Common,mild,0,0.15,Claude
+380,Very Common,severe,1,0.03,Claude
+381,Very Common,severe,0,0.3,Claude
+382,Very Common,mild,1,0.1,Claude
+383,Very Common,mild,0,0.25,Claude
+384,Probable,severe,1,0.05,Claude
+385,Probable,severe,0,0.65,Claude
+386,Probable,mild,1,0.3,Claude
+387,Probable,mild,0,0.65,Claude
+388,Likely,severe,1,0.15,Claude
+389,Likely,severe,0,0.65,Claude
+390,Likely,mild,1,0.2,Claude
+391,Likely,mild,0,0.65,Claude
+392,Usual,severe,1,0.001,Claude
+393,Usual,severe,0,0.02,Claude
+394,Usual,mild,1,0.2,Claude
+395,Usual,mild,0,0.1,Claude
+396,Very Likely,severe,1,0.05,Claude
+397,Very Likely,severe,0,0.75,Claude
+398,Very Likely,mild,1,0.25,Claude
+399,Very Likely,mild,0,0.75,Claude
+400,Rare,severe,1,0.003,Claude
+401,Rare,severe,0,0.005,Claude
+402,Rare,mild,1,0.06,Claude
+403,Rare,mild,0,0.02,Claude
+404,Uncommon,severe,1,0.002,Claude
+405,Uncommon,severe,0,0.15,Claude
+406,Uncommon,mild,1,0.05,Claude
+407,Uncommon,mild,0,0.15,Claude
+408,Unlikely,severe,1,0.01,Claude
+409,Unlikely,severe,0,0.2,Claude
+410,Unlikely,mild,1,0.15,Claude
+411,Unlikely,mild,0,0.2,Claude
+412,Possible,severe,1,0.03,Claude
+413,Possible,severe,0,0.2,Claude
+414,Possible,mild,1,0.08,Claude
+415,Possible,mild,0,0.35,Claude
+416,Common,severe,1,0.03,Claude
+417,Common,severe,0,0.08,Claude
+418,Common,mild,1,0.15,Claude
+419,Common,mild,0,0.2,Claude
+420,Very Common,severe,1,0.013000000000000001,Claude
+421,Very Common,severe,0,0.3,Claude
+422,Very Common,mild,1,0.15,Claude
+423,Very Common,mild,0,0.35,Claude
+424,Probable,severe,1,0.2,Claude
+425,Probable,severe,0,0.7,Claude
+426,Probable,mild,1,0.45,Claude
+427,Probable,mild,0,0.7,Claude
+428,Likely,severe,1,0.08,Claude
+429,Likely,severe,0,0.75,Claude
+430,Likely,mild,1,0.3,Claude
+431,Likely,mild,0,0.7,Claude
+432,Usual,severe,1,0.01,Claude
+433,Usual,severe,0,0.015,Claude
+434,Usual,mild,1,0.15,Claude
+435,Usual,mild,0,0.15,Claude
+436,Very Likely,severe,1,0.15,Claude
+437,Very Likely,severe,0,0.8,Claude
+438,Very Likely,mild,1,0.35,Claude
+439,Very Likely,mild,0,0.75,Claude
+440,Rare,severe,1,0.008,Claude
+441,Rare,severe,0,0.02,Claude
+442,Rare,mild,1,0.08,Claude
+443,Rare,mild,0,0.05,Claude
+444,Uncommon,severe,1,0.001,Claude
+445,Uncommon,severe,0,0.1,Claude
+446,Uncommon,mild,1,0.08,Claude
+447,Uncommon,mild,0,0.15,Claude
+448,Unlikely,severe,1,0.01,Claude
+449,Unlikely,severe,0,0.2,Claude
+450,Unlikely,mild,1,0.2,Claude
+451,Unlikely,mild,0,0.25,Claude
+452,Possible,severe,1,0.006,Claude
+453,Possible,severe,0,0.25,Claude
+454,Possible,mild,1,0.08,Claude
+455,Possible,mild,0,0.15,Claude
+456,Common,severe,1,0.03,Claude
+457,Common,severe,0,0.12,Claude
+458,Common,mild,1,0.06,Claude
+459,Common,mild,0,0.15,Claude
+460,Very Common,severe,1,0.002,Claude
+461,Very Common,severe,0,0.35,Claude
+462,Very Common,mild,1,0.04,Claude
+463,Very Common,mild,0,0.3,Claude
+464,Probable,severe,1,0.3,Claude
+465,Probable,severe,0,0.65,Claude
+466,Probable,mild,1,0.3,Claude
+467,Probable,mild,0,0.75,Claude
+468,Likely,severe,1,0.05,Claude
+469,Likely,severe,0,0.65,Claude
+470,Likely,mild,1,0.3,Claude
+471,Likely,mild,0,0.65,Claude
+472,Usual,severe,1,0.01,Claude
+473,Usual,severe,0,0.09,Claude
+474,Usual,mild,1,0.15,Claude
+475,Usual,mild,0,0.3,Claude
+476,Very Likely,severe,1,0.1,Claude
+477,Very Likely,severe,0,0.8,Claude
+478,Very Likely,mild,1,0.35,Claude
+479,Very Likely,mild,0,0.8,Claude
+480,Rare,severe,1,0.003,Claude
+481,Rare,severe,0,0.01,Claude
+482,Rare,mild,1,0.04,Claude
+483,Rare,mild,0,0.05,Claude
+484,Uncommon,severe,1,0.002,Claude
+485,Uncommon,severe,0,0.15,Claude
+486,Uncommon,mild,1,0.05,Claude
+487,Uncommon,mild,0,0.15,Claude
+488,Unlikely,severe,1,0.003,Claude
+489,Unlikely,severe,0,0.25,Claude
+490,Unlikely,mild,1,0.15,Claude
+491,Unlikely,mild,0,0.15,Claude
+492,Possible,severe,1,0.004,Claude
+493,Possible,severe,0,0.15,Claude
+494,Possible,mild,1,0.08,Claude
+495,Possible,mild,0,0.25,Claude
+496,Common,severe,1,0.04,Claude
+497,Common,severe,0,0.025,Claude
+498,Common,mild,1,0.15,Claude
+499,Common,mild,0,0.2,Claude
+500,Very Common,severe,1,0.015,Claude
+501,Very Common,severe,0,0.65,Claude
+502,Very Common,mild,1,0.2,Claude
+503,Very Common,mild,0,0.4,Claude
+504,Probable,severe,1,0.1,Claude
+505,Probable,severe,0,0.75,Claude
+506,Probable,mild,1,0.3,Claude
+507,Probable,mild,0,0.65,Claude
+508,Likely,severe,1,0.015,Claude
+509,Likely,severe,0,0.65,Claude
+510,Likely,mild,1,0.25,Claude
+511,Likely,mild,0,0.7,Claude
+512,Usual,severe,1,0.02,Claude
+513,Usual,severe,0,0.02,Claude
+514,Usual,mild,1,0.2,Claude
+515,Usual,mild,0,0.08,Claude
+516,Very Likely,severe,1,0.2,Claude
+517,Very Likely,severe,0,0.75,Claude
+518,Very Likely,mild,1,0.3,Claude
+519,Very Likely,mild,0,0.8,Claude
+520,Rare,severe,1,0.01,Claude
+521,Rare,severe,0,0.01,Claude
+522,Rare,mild,1,0.05,Claude
+523,Rare,mild,0,0.05,Claude
+524,Uncommon,severe,1,0.002,Claude
+525,Uncommon,severe,0,0.15,Claude
+526,Uncommon,mild,1,0.05,Claude
+527,Uncommon,mild,0,0.15,Claude
+528,Unlikely,severe,1,0.02,Claude
+529,Unlikely,severe,0,0.2,Claude
+530,Unlikely,mild,1,0.2,Claude
+531,Unlikely,mild,0,0.2,Claude
+532,Possible,severe,1,0.03,Claude
+533,Possible,severe,0,0.15,Claude
+534,Possible,mild,1,0.04,Claude
+535,Possible,mild,0,0.3,Claude
+536,Common,severe,1,0.016,Claude
+537,Common,severe,0,0.15,Claude
+538,Common,mild,1,0.15,Claude
+539,Common,mild,0,0.1,Claude
+540,Very Common,severe,1,0.12,Claude
+541,Very Common,severe,0,0.21,Claude
+542,Very Common,mild,1,0.15,Claude
+543,Very Common,mild,0,0.35,Claude
+544,Probable,severe,1,0.15,Claude
+545,Probable,severe,0,0.7,Claude
+546,Probable,mild,1,0.25,Claude
+547,Probable,mild,0,0.7,Claude
+548,Likely,severe,1,0.1,Claude
+549,Likely,severe,0,0.75,Claude
+550,Likely,mild,1,0.15,Claude
+551,Likely,mild,0,0.65,Claude
+552,Usual,severe,1,0.1,Claude
+553,Usual,severe,0,0.03,Claude
+554,Usual,mild,1,0.2,Claude
+555,Usual,mild,0,0.25,Claude
+556,Very Likely,severe,1,0.15,Claude
+557,Very Likely,severe,0,0.8,Claude
+558,Very Likely,mild,1,0.35,Claude
+559,Very Likely,mild,0,0.8,Claude
+560,Rare,severe,1,0.005,Claude
+561,Rare,severe,0,0.01,Claude
+562,Rare,mild,1,0.05,Claude
+563,Rare,mild,0,0.05,Claude
+564,Uncommon,severe,1,0.005,Claude
+565,Uncommon,severe,0,0.15,Claude
+566,Uncommon,mild,1,0.08,Claude
+567,Uncommon,mild,0,0.15,Claude
+568,Unlikely,severe,1,0.02,Claude
+569,Unlikely,severe,0,0.25,Claude
+570,Unlikely,mild,1,0.1,Claude
+571,Unlikely,mild,0,0.25,Claude
+572,Possible,severe,1,0.01,Claude
+573,Possible,severe,0,0.3,Claude
+574,Possible,mild,1,0.08,Claude
+575,Possible,mild,0,0.35,Claude
+576,Common,severe,1,0.015,Claude
+577,Common,severe,0,0.02,Claude
+578,Common,mild,1,0.15,Claude
+579,Common,mild,0,0.2,Claude
+580,Very Common,severe,1,0.03,Claude
+581,Very Common,severe,0,0.03,Claude
+582,Very Common,mild,1,0.2,Claude
+583,Very Common,mild,0,0.35,Claude
+584,Probable,severe,1,0.25,Claude
+585,Probable,severe,0,0.7,Claude
+586,Probable,mild,1,0.2,Claude
+587,Probable,mild,0,0.65,Claude
+588,Likely,severe,1,0.1,Claude
+589,Likely,severe,0,0.6,Claude
+590,Likely,mild,1,0.35,Claude
+591,Likely,mild,0,0.65,Claude
+592,Usual,severe,1,0.01,Claude
+593,Usual,severe,0,0.02,Claude
+594,Usual,mild,1,0.1,Claude
+595,Usual,mild,0,0.15,Claude
+596,Very Likely,severe,1,0.05,Claude
+597,Very Likely,severe,0,0.85,Claude
+598,Very Likely,mild,1,0.65,Claude
+599,Very Likely,mild,0,0.8,Claude
+600,Rare,severe,1,0.03,Claude
+601,Rare,severe,0,0.03,Claude
+602,Rare,mild,1,0.04,Claude
+603,Rare,mild,0,0.05,Claude
+604,Uncommon,severe,1,0.004,Claude
+605,Uncommon,severe,0,0.15,Claude
+606,Uncommon,mild,1,0.08,Claude
+607,Uncommon,mild,0,0.15,Claude
+608,Unlikely,severe,1,0.02,Claude
+609,Unlikely,severe,0,0.2,Claude
+610,Unlikely,mild,1,0.05,Claude
+611,Unlikely,mild,0,0.25,Claude
+612,Possible,severe,1,0.12,Claude
+613,Possible,severe,0,0.25,Claude
+614,Possible,mild,1,0.08,Claude
+615,Possible,mild,0,0.35,Claude
+616,Common,severe,1,0.03,Claude
+617,Common,severe,0,0.15,Claude
+618,Common,mild,1,0.12,Claude
+619,Common,mild,0,0.15,Claude
+620,Very Common,severe,1,0.03,Claude
+621,Very Common,severe,0,0.15,Claude
+622,Very Common,mild,1,0.15,Claude
+623,Very Common,mild,0,0.6,Claude
+624,Probable,severe,1,0.03,Claude
+625,Probable,severe,0,0.65,Claude
+626,Probable,mild,1,0.35,Claude
+627,Probable,mild,0,0.75,Claude
+628,Likely,severe,1,0.15,Claude
+629,Likely,severe,0,0.65,Claude
+630,Likely,mild,1,0.25,Claude
+631,Likely,mild,0,0.65,Claude
+632,Usual,severe,1,0.03,Claude
+633,Usual,severe,0,0.02,Claude
+634,Usual,mild,1,0.2,Claude
+635,Usual,mild,0,0.2,Claude
+636,Very Likely,severe,1,0.03,Claude
+637,Very Likely,severe,0,0.85,Claude
+638,Very Likely,mild,1,0.25,Claude
+639,Very Likely,mild,0,0.8,Claude
+640,Rare,severe,1,0.01,Claude
+641,Rare,severe,0,0.01,Claude
+642,Rare,mild,1,0.05,Claude
+643,Rare,mild,0,0.05,Claude
+644,Uncommon,severe,1,0.008,Claude
+645,Uncommon,severe,0,0.15,Claude
+646,Uncommon,mild,1,0.08,Claude
+647,Uncommon,mild,0,0.15,Claude
+648,Unlikely,severe,1,0.01,Claude
+649,Unlikely,severe,0,0.15,Claude
+650,Unlikely,mild,1,0.15,Claude
+651,Unlikely,mild,0,0.2,Claude
+652,Possible,severe,1,0.003,Claude
+653,Possible,severe,0,0.2,Claude
+654,Possible,mild,1,0.15,Claude
+655,Possible,mild,0,0.35,Claude
+656,Common,severe,1,0.01,Claude
+657,Common,severe,0,0.09,Claude
+658,Common,mild,1,0.2,Claude
+659,Common,mild,0,0.2,Claude
+660,Very Common,severe,1,0.05,Claude
+661,Very Common,severe,0,0.25,Claude
+662,Very Common,mild,1,0.15,Claude
+663,Very Common,mild,0,0.65,Claude
+664,Probable,severe,1,0.2,Claude
+665,Probable,severe,0,0.75,Claude
+666,Probable,mild,1,0.35,Claude
+667,Probable,mild,0,0.7,Claude
+668,Likely,severe,1,0.12,Claude
+669,Likely,severe,0,0.6,Claude
+670,Likely,mild,1,0.15,Claude
+671,Likely,mild,0,0.65,Claude
+672,Usual,severe,1,0.12,Claude
+673,Usual,severe,0,0.01,Claude
+674,Usual,mild,1,0.15,Claude
+675,Usual,mild,0,0.15,Claude
+676,Very Likely,severe,1,0.08,Claude
+677,Very Likely,severe,0,0.85,Claude
+678,Very Likely,mild,1,0.65,Claude
+679,Very Likely,mild,0,0.8,Claude
+680,Rare,severe,1,0.01,Claude
+681,Rare,severe,0,0.005,Claude
+682,Rare,mild,1,0.05,Claude
+683,Rare,mild,0,0.05,Claude
+684,Uncommon,severe,1,0.002,Claude
+685,Uncommon,severe,0,0.15,Claude
+686,Uncommon,mild,1,0.08,Claude
+687,Uncommon,mild,0,0.15,Claude
+688,Unlikely,severe,1,0.02,Claude
+689,Unlikely,severe,0,0.2,Claude
+690,Unlikely,mild,1,0.15,Claude
+691,Unlikely,mild,0,0.15,Claude
+692,Possible,severe,1,0.03,Claude
+693,Possible,severe,0,0.35,Claude
+694,Possible,mild,1,0.04,Claude
+695,Possible,mild,0,0.25,Claude
+696,Common,severe,1,0.1,Claude
+697,Common,severe,0,0.15,Claude
+698,Common,mild,1,0.15,Claude
+699,Common,mild,0,0.1,Claude
+700,Very Common,severe,1,0.03,Claude
+701,Very Common,severe,0,0.4,Claude
+702,Very Common,mild,1,0.25,Claude
+703,Very Common,mild,0,0.65,Claude
+704,Probable,severe,1,0.12,Claude
+705,Probable,severe,0,0.65,Claude
+706,Probable,mild,1,0.3,Claude
+707,Probable,mild,0,0.65,Claude
+708,Likely,severe,1,0.15,Claude
+709,Likely,severe,0,0.75,Claude
+710,Likely,mild,1,0.2,Claude
+711,Likely,mild,0,0.75,Claude
+712,Usual,severe,1,0.02,Claude
+713,Usual,severe,0,0.15,Claude
+714,Usual,mild,1,0.15,Claude
+715,Usual,mild,0,0.15,Claude
+716,Very Likely,severe,1,0.08,Claude
+717,Very Likely,severe,0,0.8,Claude
+718,Very Likely,mild,1,0.3,Claude
+719,Very Likely,mild,0,0.75,Claude
+720,Rare,severe,1,0.01,Claude
+721,Rare,severe,0,0.01,Claude
+722,Rare,mild,1,0.05,Claude
+723,Rare,mild,0,0.05,Claude
+724,Uncommon,severe,1,0.004,Claude
+725,Uncommon,severe,0,0.05,Claude
+726,Uncommon,mild,1,0.08,Claude
+727,Uncommon,mild,0,0.15,Claude
+728,Unlikely,severe,1,0.02,Claude
+729,Unlikely,severe,0,0.15,Claude
+730,Unlikely,mild,1,0.08,Claude
+731,Unlikely,mild,0,0.15,Claude
+732,Possible,severe,1,0.1,Claude
+733,Possible,severe,0,0.2,Claude
+734,Possible,mild,1,0.08,Claude
+735,Possible,mild,0,0.2,Claude
+736,Common,severe,1,0.03,Claude
+737,Common,severe,0,0.12,Claude
+738,Common,mild,1,0.08,Claude
+739,Common,mild,0,0.15,Claude
+740,Very Common,severe,1,0.08,Claude
+741,Very Common,severe,0,0.35,Claude
+742,Very Common,mild,1,0.15,Claude
+743,Very Common,mild,0,0.35,Claude
+744,Probable,severe,1,0.15,Claude
+745,Probable,severe,0,0.65,Claude
+746,Probable,mild,1,0.35,Claude
+747,Probable,mild,0,0.75,Claude
+748,Likely,severe,1,0.1,Claude
+749,Likely,severe,0,0.6,Claude
+750,Likely,mild,1,0.2,Claude
+751,Likely,mild,0,0.67,Claude
+752,Usual,severe,1,0.001,Claude
+753,Usual,severe,0,0.01,Claude
+754,Usual,mild,1,0.2,Claude
+755,Usual,mild,0,0.15,Claude
+756,Very Likely,severe,1,0.1,Claude
+757,Very Likely,severe,0,0.85,Claude
+758,Very Likely,mild,1,0.45,Claude
+759,Very Likely,mild,0,0.8,Claude
+760,Rare,severe,1,0.01,Claude
+761,Rare,severe,0,0.01,Claude
+762,Rare,mild,1,0.02,Claude
+763,Rare,mild,0,0.03,Claude
+764,Uncommon,severe,1,0.01,Claude
+765,Uncommon,severe,0,0.15,Claude
+766,Uncommon,mild,1,0.05,Claude
+767,Uncommon,mild,0,0.15,Claude
+768,Unlikely,severe,1,0.02,Claude
+769,Unlikely,severe,0,0.2,Claude
+770,Unlikely,mild,1,0.15,Claude
+771,Unlikely,mild,0,0.15,Claude
+772,Possible,severe,1,0.01,Claude
+773,Possible,severe,0,0.03,Claude
+774,Possible,mild,1,0.08,Claude
+775,Possible,mild,0,0.15,Claude
+776,Common,severe,1,0.02,Claude
+777,Common,severe,0,0.1,Claude
+778,Common,mild,1,0.07,Claude
+779,Common,mild,0,0.15,Claude
+780,Very Common,severe,1,0.03,Claude
+781,Very Common,severe,0,0.12,Claude
+782,Very Common,mild,1,0.15,Claude
+783,Very Common,mild,0,0.35,Claude
+784,Probable,severe,1,0.3,Claude
+785,Probable,severe,0,0.65,Claude
+786,Probable,mild,1,0.2,Claude
+787,Probable,mild,0,0.75,Claude
+788,Likely,severe,1,0.05,Claude
+789,Likely,severe,0,0.75,Claude
+790,Likely,mild,1,0.25,Claude
+791,Likely,mild,0,0.65,Claude
+792,Usual,severe,1,0.02,Claude
+793,Usual,severe,0,0.05,Claude
+794,Usual,mild,1,0.15,Claude
+795,Usual,mild,0,0.1,Claude
+796,Very Likely,severe,1,0.12,Claude
+797,Very Likely,severe,0,0.75,Claude
+798,Very Likely,mild,1,0.25,Claude
+799,Very Likely,mild,0,0.75,Claude
+0,Rare,severe,1,0.01,Grok
+1,Rare,severe,0,0.01,Grok
+2,Rare,mild,1,0.01,Grok
+3,Rare,mild,0,0.01,Grok
+4,Uncommon,severe,1,0.05,Grok
+5,Uncommon,severe,0,0.05,Grok
+6,Uncommon,mild,1,0.1,Grok
+7,Uncommon,mild,0,0.1,Grok
+8,Unlikely,severe,1,0.1,Grok
+9,Unlikely,severe,0,0.1,Grok
+10,Unlikely,mild,1,0.1,Grok
+11,Unlikely,mild,0,0.2,Grok
+12,Possible,severe,1,0.15,Grok
+13,Possible,severe,0,0.1,Grok
+14,Possible,mild,1,0.1,Grok
+15,Possible,mild,0,0.1,Grok
+16,Common,severe,1,0.1,Grok
+17,Common,severe,0,0.1,Grok
+18,Common,mild,1,0.2,Grok
+19,Common,mild,0,0.2,Grok
+20,Very Common,severe,1,0.25,Grok
+21,Very Common,severe,0,0.8,Grok
+22,Very Common,mild,1,0.8,Grok
+23,Very Common,mild,0,0.8,Grok
+24,Probable,severe,1,0.6,Grok
+25,Probable,severe,0,0.75,Grok
+26,Probable,mild,1,0.6,Grok
+27,Probable,mild,0,0.6,Grok
+28,Likely,severe,1,0.75,Grok
+29,Likely,severe,0,0.6,Grok
+30,Likely,mild,1,0.75,Grok
+31,Likely,mild,0,0.6,Grok
+32,Usual,severe,1,0.01,Grok
+33,Usual,severe,0,0.5,Grok
+34,Usual,mild,1,0.5,Grok
+35,Usual,mild,0,0.5,Grok
+36,Very Likely,severe,1,0.8,Grok
+37,Very Likely,severe,0,0.8,Grok
+38,Very Likely,mild,1,0.8,Grok
+39,Very Likely,mild,0,0.8,Grok
+40,Rare,severe,1,0.01,Grok
+41,Rare,severe,0,0.01,Grok
+42,Rare,mild,1,0.01,Grok
+43,Rare,mild,0,0.01,Grok
+44,Uncommon,severe,1,0.05,Grok
+45,Uncommon,severe,0,0.1,Grok
+46,Uncommon,mild,1,0.05,Grok
+47,Uncommon,mild,0,0.1,Grok
+48,Unlikely,severe,1,0.1,Grok
+49,Unlikely,severe,0,0.1,Grok
+50,Unlikely,mild,1,0.1,Grok
+51,Unlikely,mild,0,0.1,Grok
+52,Possible,severe,1,0.1,Grok
+53,Possible,severe,0,0.1,Grok
+54,Possible,mild,1,0.1,Grok
+55,Possible,mild,0,0.2,Grok
+56,Common,severe,1,0.15,Grok
+57,Common,severe,0,0.1,Grok
+58,Common,mild,1,0.2,Grok
+59,Common,mild,0,0.3,Grok
+60,Very Common,severe,1,0.25,Grok
+61,Very Common,severe,0,0.25,Grok
+62,Very Common,mild,1,0.8,Grok
+63,Very Common,mild,0,0.8,Grok
+64,Probable,severe,1,0.6,Grok
+65,Probable,severe,0,0.75,Grok
+66,Probable,mild,1,0.6,Grok
+67,Probable,mild,0,0.6,Grok
+68,Likely,severe,1,0.75,Grok
+69,Likely,severe,0,0.6,Grok
+70,Likely,mild,1,0.75,Grok
+71,Likely,mild,0,0.6,Grok
+72,Usual,severe,1,0.5,Grok
+73,Usual,severe,0,0.5,Grok
+74,Usual,mild,1,0.5,Grok
+75,Usual,mild,0,0.5,Grok
+76,Very Likely,severe,1,0.8,Grok
+77,Very Likely,severe,0,0.8,Grok
+78,Very Likely,mild,1,0.8,Grok
+79,Very Likely,mild,0,0.85,Grok
+80,Rare,severe,1,0.01,Grok
+81,Rare,severe,0,0.01,Grok
+82,Rare,mild,1,0.01,Grok
+83,Rare,mild,0,0.01,Grok
+84,Uncommon,severe,1,0.05,Grok
+85,Uncommon,severe,0,0.05,Grok
+86,Uncommon,mild,1,0.05,Grok
+87,Uncommon,mild,0,0.05,Grok
+88,Unlikely,severe,1,0.1,Grok
+89,Unlikely,severe,0,0.1,Grok
+90,Unlikely,mild,1,0.1,Grok
+91,Unlikely,mild,0,0.2,Grok
+92,Possible,severe,1,0.15,Grok
+93,Possible,severe,0,0.1,Grok
+94,Possible,mild,1,0.1,Grok
+95,Possible,mild,0,0.1,Grok
+96,Common,severe,1,0.1,Grok
+97,Common,severe,0,0.1,Grok
+98,Common,mild,1,0.2,Grok
+99,Common,mild,0,0.3,Grok
+100,Very Common,severe,1,0.25,Grok
+101,Very Common,severe,0,0.2,Grok
+102,Very Common,mild,1,0.2,Grok
+103,Very Common,mild,0,0.8,Grok
+104,Probable,severe,1,0.75,Grok
+105,Probable,severe,0,0.75,Grok
+106,Probable,mild,1,0.6,Grok
+107,Probable,mild,0,0.6,Grok
+108,Likely,severe,1,0.75,Grok
+109,Likely,severe,0,0.75,Grok
+110,Likely,mild,1,0.6,Grok
+111,Likely,mild,0,0.75,Grok
+112,Usual,severe,1,0.01,Grok
+113,Usual,severe,0,0.5,Grok
+114,Usual,mild,1,0.5,Grok
+115,Usual,mild,0,0.5,Grok
+116,Very Likely,severe,1,0.8,Grok
+117,Very Likely,severe,0,0.8,Grok
+118,Very Likely,mild,1,0.8,Grok
+119,Very Likely,mild,0,0.85,Grok
+120,Rare,severe,1,0.001,Grok
+121,Rare,severe,0,0.01,Grok
+122,Rare,mild,1,0.01,Grok
+123,Rare,mild,0,0.01,Grok
+124,Uncommon,severe,1,0.05,Grok
+125,Uncommon,severe,0,0.05,Grok
+126,Uncommon,mild,1,0.1,Grok
+127,Uncommon,mild,0,0.1,Grok
+128,Unlikely,severe,1,0.1,Grok
+129,Unlikely,severe,0,0.1,Grok
+130,Unlikely,mild,1,0.1,Grok
+131,Unlikely,mild,0,0.2,Grok
+132,Possible,severe,1,0.05,Grok
+133,Possible,severe,0,0.05,Grok
+134,Possible,mild,1,0.15,Grok
+135,Possible,mild,0,0.1,Grok
+136,Common,severe,1,0.1,Grok
+137,Common,severe,0,0.15,Grok
+138,Common,mild,1,0.2,Grok
+139,Common,mild,0,0.3,Grok
+140,Very Common,severe,1,0.25,Grok
+141,Very Common,severe,0,0.2,Grok
+142,Very Common,mild,1,0.5,Grok
+143,Very Common,mild,0,0.8,Grok
+144,Probable,severe,1,0.7,Grok
+145,Probable,severe,0,0.75,Grok
+146,Probable,mild,1,0.6,Grok
+147,Probable,mild,0,0.6,Grok
+148,Likely,severe,1,0.75,Grok
+149,Likely,severe,0,0.6,Grok
+150,Likely,mild,1,0.75,Grok
+151,Likely,mild,0,0.6,Grok
+152,Usual,severe,1,0.5,Grok
+153,Usual,severe,0,0.5,Grok
+154,Usual,mild,1,0.5,Grok
+155,Usual,mild,0,0.5,Grok
+156,Very Likely,severe,1,0.8,Grok
+157,Very Likely,severe,0,0.85,Grok
+158,Very Likely,mild,1,0.8,Grok
+159,Very Likely,mild,0,0.8,Grok
+160,Rare,severe,1,0.01,Grok
+161,Rare,severe,0,0.01,Grok
+162,Rare,mild,1,0.01,Grok
+163,Rare,mild,0,0.01,Grok
+164,Uncommon,severe,1,0.05,Grok
+165,Uncommon,severe,0,0.05,Grok
+166,Uncommon,mild,1,0.1,Grok
+167,Uncommon,mild,0,0.1,Grok
+168,Unlikely,severe,1,0.1,Grok
+169,Unlikely,severe,0,0.1,Grok
+170,Unlikely,mild,1,0.1,Grok
+171,Unlikely,mild,0,0.2,Grok
+172,Possible,severe,1,0.05,Grok
+173,Possible,severe,0,0.1,Grok
+174,Possible,mild,1,0.1,Grok
+175,Possible,mild,0,0.1,Grok
+176,Common,severe,1,0.1,Grok
+177,Common,severe,0,0.1,Grok
+178,Common,mild,1,0.2,Grok
+179,Common,mild,0,0.2,Grok
+180,Very Common,severe,1,0.15,Grok
+181,Very Common,severe,0,0.8,Grok
+182,Very Common,mild,1,0.2,Grok
+183,Very Common,mild,0,0.8,Grok
+184,Probable,severe,1,0.6,Grok
+185,Probable,severe,0,0.75,Grok
+186,Probable,mild,1,0.6,Grok
+187,Probable,mild,0,0.75,Grok
+188,Likely,severe,1,0.75,Grok
+189,Likely,severe,0,0.6,Grok
+190,Likely,mild,1,0.75,Grok
+191,Likely,mild,0,0.6,Grok
+192,Usual,severe,1,0.01,Grok
+193,Usual,severe,0,0.5,Grok
+194,Usual,mild,1,0.5,Grok
+195,Usual,mild,0,0.5,Grok
+196,Very Likely,severe,1,0.8,Grok
+197,Very Likely,severe,0,0.8,Grok
+198,Very Likely,mild,1,0.85,Grok
+199,Very Likely,mild,0,0.85,Grok
+200,Rare,severe,1,0.01,Grok
+201,Rare,severe,0,0.01,Grok
+202,Rare,mild,1,0.01,Grok
+203,Rare,mild,0,0.01,Grok
+204,Uncommon,severe,1,0.05,Grok
+205,Uncommon,severe,0,0.05,Grok
+206,Uncommon,mild,1,0.05,Grok
+207,Uncommon,mild,0,0.1,Grok
+208,Unlikely,severe,1,0.1,Grok
+209,Unlikely,severe,0,0.1,Grok
+210,Unlikely,mild,1,0.1,Grok
+211,Unlikely,mild,0,0.2,Grok
+212,Possible,severe,1,0.05,Grok
+213,Possible,severe,0,0.1,Grok
+214,Possible,mild,1,0.1,Grok
+215,Possible,mild,0,0.1,Grok
+216,Common,severe,1,0.1,Grok
+217,Common,severe,0,0.1,Grok
+218,Common,mild,1,0.1,Grok
+219,Common,mild,0,0.3,Grok
+220,Very Common,severe,1,0.25,Grok
+221,Very Common,severe,0,0.25,Grok
+222,Very Common,mild,1,0.5,Grok
+223,Very Common,mild,0,0.8,Grok
+224,Probable,severe,1,0.6,Grok
+225,Probable,severe,0,0.6,Grok
+226,Probable,mild,1,0.6,Grok
+227,Probable,mild,0,0.6,Grok
+228,Likely,severe,1,0.75,Grok
+229,Likely,severe,0,0.6,Grok
+230,Likely,mild,1,0.75,Grok
+231,Likely,mild,0,0.6,Grok
+232,Usual,severe,1,0.01,Grok
+233,Usual,severe,0,0.5,Grok
+234,Usual,mild,1,0.5,Grok
+235,Usual,mild,0,0.5,Grok
+236,Very Likely,severe,1,0.8,Grok
+237,Very Likely,severe,0,0.8,Grok
+238,Very Likely,mild,1,0.85,Grok
+239,Very Likely,mild,0,0.85,Grok
+240,Rare,severe,1,0.01,Grok
+241,Rare,severe,0,0.01,Grok
+242,Rare,mild,1,0.01,Grok
+243,Rare,mild,0,0.01,Grok
+244,Uncommon,severe,1,0.01,Grok
+245,Uncommon,severe,0,0.05,Grok
+246,Uncommon,mild,1,0.1,Grok
+247,Uncommon,mild,0,0.1,Grok
+248,Unlikely,severe,1,0.1,Grok
+249,Unlikely,severe,0,0.1,Grok
+250,Unlikely,mild,1,0.2,Grok
+251,Unlikely,mild,0,0.2,Grok
+252,Possible,severe,1,0.1,Grok
+253,Possible,severe,0,0.1,Grok
+254,Possible,mild,1,0.1,Grok
+255,Possible,mild,0,0.2,Grok
+256,Common,severe,1,0.25,Grok
+257,Common,severe,0,0.2,Grok
+258,Common,mild,1,0.1,Grok
+259,Common,mild,0,0.3,Grok
+260,Very Common,severe,1,0.25,Grok
+261,Very Common,severe,0,0.2,Grok
+262,Very Common,mild,1,0.8,Grok
+263,Very Common,mild,0,0.8,Grok
+264,Probable,severe,1,0.6,Grok
+265,Probable,severe,0,0.75,Grok
+266,Probable,mild,1,0.6,Grok
+267,Probable,mild,0,0.6,Grok
+268,Likely,severe,1,0.7,Grok
+269,Likely,severe,0,0.6,Grok
+270,Likely,mild,1,0.75,Grok
+271,Likely,mild,0,0.6,Grok
+272,Usual,severe,1,0.5,Grok
+273,Usual,severe,0,0.1,Grok
+274,Usual,mild,1,0.5,Grok
+275,Usual,mild,0,0.6,Grok
+276,Very Likely,severe,1,0.8,Grok
+277,Very Likely,severe,0,0.8,Grok
+278,Very Likely,mild,1,0.85,Grok
+279,Very Likely,mild,0,0.8,Grok
+280,Rare,severe,1,0.001,Grok
+281,Rare,severe,0,0.01,Grok
+282,Rare,mild,1,0.01,Grok
+283,Rare,mild,0,0.05,Grok
+284,Uncommon,severe,1,0.05,Grok
+285,Uncommon,severe,0,0.05,Grok
+286,Uncommon,mild,1,0.05,Grok
+287,Uncommon,mild,0,0.1,Grok
+288,Unlikely,severe,1,0.1,Grok
+289,Unlikely,severe,0,0.1,Grok
+290,Unlikely,mild,1,0.1,Grok
+291,Unlikely,mild,0,0.1,Grok
+292,Possible,severe,1,0.05,Grok
+293,Possible,severe,0,0.1,Grok
+294,Possible,mild,1,0.1,Grok
+295,Possible,mild,0,0.1,Grok
+296,Common,severe,1,0.25,Grok
+297,Common,severe,0,0.1,Grok
+298,Common,mild,1,0.1,Grok
+299,Common,mild,0,0.2,Grok
+300,Very Common,severe,1,0.25,Grok
+301,Very Common,severe,0,0.25,Grok
+302,Very Common,mild,1,0.8,Grok
+303,Very Common,mild,0,0.8,Grok
+304,Probable,severe,1,0.6,Grok
+305,Probable,severe,0,0.6,Grok
+306,Probable,mild,1,0.6,Grok
+307,Probable,mild,0,0.6,Grok
+308,Likely,severe,1,0.75,Grok
+309,Likely,severe,0,0.6,Grok
+310,Likely,mild,1,0.75,Grok
+311,Likely,mild,0,0.75,Grok
+312,Usual,severe,1,0.5,Grok
+313,Usual,severe,0,0.5,Grok
+314,Usual,mild,1,0.5,Grok
+315,Usual,mild,0,0.5,Grok
+316,Very Likely,severe,1,0.8,Grok
+317,Very Likely,severe,0,0.8,Grok
+318,Very Likely,mild,1,0.8,Grok
+319,Very Likely,mild,0,0.85,Grok
+320,Rare,severe,1,0.01,Grok
+321,Rare,severe,0,0.01,Grok
+322,Rare,mild,1,0.01,Grok
+323,Rare,mild,0,0.01,Grok
+324,Uncommon,severe,1,0.05,Grok
+325,Uncommon,severe,0,0.1,Grok
+326,Uncommon,mild,1,0.1,Grok
+327,Uncommon,mild,0,0.1,Grok
+328,Unlikely,severe,1,0.1,Grok
+329,Unlikely,severe,0,0.1,Grok
+330,Unlikely,mild,1,0.1,Grok
+331,Unlikely,mild,0,0.2,Grok
+332,Possible,severe,1,0.1,Grok
+333,Possible,severe,0,0.05,Grok
+334,Possible,mild,1,0.1,Grok
+335,Possible,mild,0,0.1,Grok
+336,Common,severe,1,0.05,Grok
+337,Common,severe,0,0.1,Grok
+338,Common,mild,1,0.2,Grok
+339,Common,mild,0,0.2,Grok
+340,Very Common,severe,1,0.25,Grok
+341,Very Common,severe,0,0.25,Grok
+342,Very Common,mild,1,0.8,Grok
+343,Very Common,mild,0,0.8,Grok
+344,Probable,severe,1,0.6,Grok
+345,Probable,severe,0,0.75,Grok
+346,Probable,mild,1,0.6,Grok
+347,Probable,mild,0,0.6,Grok
+348,Likely,severe,1,0.75,Grok
+349,Likely,severe,0,0.75,Grok
+350,Likely,mild,1,0.75,Grok
+351,Likely,mild,0,0.6,Grok
+352,Usual,severe,1,0.5,Grok
+353,Usual,severe,0,0.5,Grok
+354,Usual,mild,1,0.5,Grok
+355,Usual,mild,0,0.5,Grok
+356,Very Likely,severe,1,0.8,Grok
+357,Very Likely,severe,0,0.85,Grok
+358,Very Likely,mild,1,0.85,Grok
+359,Very Likely,mild,0,0.8,Grok
+360,Rare,severe,1,0.01,Grok
+361,Rare,severe,0,0.01,Grok
+362,Rare,mild,1,0.01,Grok
+363,Rare,mild,0,0.01,Grok
+364,Uncommon,severe,1,0.05,Grok
+365,Uncommon,severe,0,0.05,Grok
+366,Uncommon,mild,1,0.1,Grok
+367,Uncommon,mild,0,0.1,Grok
+368,Unlikely,severe,1,0.1,Grok
+369,Unlikely,severe,0,0.1,Grok
+370,Unlikely,mild,1,0.1,Grok
+371,Unlikely,mild,0,0.2,Grok
+372,Possible,severe,1,0.1,Grok
+373,Possible,severe,0,0.1,Grok
+374,Possible,mild,1,0.1,Grok
+375,Possible,mild,0,0.1,Grok
+376,Common,severe,1,0.15,Grok
+377,Common,severe,0,0.1,Grok
+378,Common,mild,1,0.2,Grok
+379,Common,mild,0,0.2,Grok
+380,Very Common,severe,1,0.25,Grok
+381,Very Common,severe,0,0.25,Grok
+382,Very Common,mild,1,0.5,Grok
+383,Very Common,mild,0,0.8,Grok
+384,Probable,severe,1,0.6,Grok
+385,Probable,severe,0,0.75,Grok
+386,Probable,mild,1,0.6,Grok
+387,Probable,mild,0,0.6,Grok
+388,Likely,severe,1,0.75,Grok
+389,Likely,severe,0,0.6,Grok
+390,Likely,mild,1,0.6,Grok
+391,Likely,mild,0,0.6,Grok
+392,Usual,severe,1,0.5,Grok
+393,Usual,severe,0,0.5,Grok
+394,Usual,mild,1,0.5,Grok
+395,Usual,mild,0,0.6,Grok
+396,Very Likely,severe,1,0.8,Grok
+397,Very Likely,severe,0,0.8,Grok
+398,Very Likely,mild,1,0.85,Grok
+399,Very Likely,mild,0,0.8,Grok
+400,Rare,severe,1,0.01,Grok
+401,Rare,severe,0,0.01,Grok
+402,Rare,mild,1,0.01,Grok
+403,Rare,mild,0,0.01,Grok
+404,Uncommon,severe,1,0.05,Grok
+405,Uncommon,severe,0,0.1,Grok
+406,Uncommon,mild,1,0.1,Grok
+407,Uncommon,mild,0,0.1,Grok
+408,Unlikely,severe,1,0.1,Grok
+409,Unlikely,severe,0,0.1,Grok
+410,Unlikely,mild,1,0.1,Grok
+411,Unlikely,mild,0,0.2,Grok
+412,Possible,severe,1,0.05,Grok
+413,Possible,severe,0,0.1,Grok
+414,Possible,mild,1,0.1,Grok
+415,Possible,mild,0,0.1,Grok
+416,Common,severe,1,0.15,Grok
+417,Common,severe,0,0.1,Grok
+418,Common,mild,1,0.1,Grok
+419,Common,mild,0,0.2,Grok
+420,Very Common,severe,1,0.15,Grok
+421,Very Common,severe,0,0.3,Grok
+422,Very Common,mild,1,0.8,Grok
+423,Very Common,mild,0,0.8,Grok
+424,Probable,severe,1,0.6,Grok
+425,Probable,severe,0,0.75,Grok
+426,Probable,mild,1,0.6,Grok
+427,Probable,mild,0,0.6,Grok
+428,Likely,severe,1,0.75,Grok
+429,Likely,severe,0,0.75,Grok
+430,Likely,mild,1,0.7,Grok
+431,Likely,mild,0,0.75,Grok
+432,Usual,severe,1,0.5,Grok
+433,Usual,severe,0,0.8,Grok
+434,Usual,mild,1,0.5,Grok
+435,Usual,mild,0,0.5,Grok
+436,Very Likely,severe,1,0.8,Grok
+437,Very Likely,severe,0,0.8,Grok
+438,Very Likely,mild,1,0.85,Grok
+439,Very Likely,mild,0,0.8,Grok
+440,Rare,severe,1,0.01,Grok
+441,Rare,severe,0,0.01,Grok
+442,Rare,mild,1,0.01,Grok
+443,Rare,mild,0,0.01,Grok
+444,Uncommon,severe,1,0.05,Grok
+445,Uncommon,severe,0,0.05,Grok
+446,Uncommon,mild,1,0.1,Grok
+447,Uncommon,mild,0,0.1,Grok
+448,Unlikely,severe,1,0.1,Grok
+449,Unlikely,severe,0,0.1,Grok
+450,Unlikely,mild,1,0.2,Grok
+451,Unlikely,mild,0,0.2,Grok
+452,Possible,severe,1,0.1,Grok
+453,Possible,severe,0,0.05,Grok
+454,Possible,mild,1,0.1,Grok
+455,Possible,mild,0,0.1,Grok
+456,Common,severe,1,0.04,Grok
+457,Common,severe,0,0.15,Grok
+458,Common,mild,1,0.2,Grok
+459,Common,mild,0,0.3,Grok
+460,Very Common,severe,1,0.15,Grok
+461,Very Common,severe,0,0.2,Grok
+462,Very Common,mild,1,0.8,Grok
+463,Very Common,mild,0,0.8,Grok
+464,Probable,severe,1,0.6,Grok
+465,Probable,severe,0,0.6,Grok
+466,Probable,mild,1,0.6,Grok
+467,Probable,mild,0,0.6,Grok
+468,Likely,severe,1,0.75,Grok
+469,Likely,severe,0,0.6,Grok
+470,Likely,mild,1,0.75,Grok
+471,Likely,mild,0,0.75,Grok
+472,Usual,severe,1,0.1,Grok
+473,Usual,severe,0,0.5,Grok
+474,Usual,mild,1,0.5,Grok
+475,Usual,mild,0,0.5,Grok
+476,Very Likely,severe,1,0.8,Grok
+477,Very Likely,severe,0,0.8,Grok
+478,Very Likely,mild,1,0.8,Grok
+479,Very Likely,mild,0,0.8,Grok
+480,Rare,severe,1,0.01,Grok
+481,Rare,severe,0,0.01,Grok
+482,Rare,mild,1,0.01,Grok
+483,Rare,mild,0,0.01,Grok
+484,Uncommon,severe,1,0.05,Grok
+485,Uncommon,severe,0,0.05,Grok
+486,Uncommon,mild,1,0.05,Grok
+487,Uncommon,mild,0,0.1,Grok
+488,Unlikely,severe,1,0.1,Grok
+489,Unlikely,severe,0,0.1,Grok
+490,Unlikely,mild,1,0.2,Grok
+491,Unlikely,mild,0,0.2,Grok
+492,Possible,severe,1,0.05,Grok
+493,Possible,severe,0,0.1,Grok
+494,Possible,mild,1,0.1,Grok
+495,Possible,mild,0,0.25,Grok
+496,Common,severe,1,0.15,Grok
+497,Common,severe,0,0.15,Grok
+498,Common,mild,1,0.2,Grok
+499,Common,mild,0,0.2,Grok
+500,Very Common,severe,1,0.25,Grok
+501,Very Common,severe,0,0.25,Grok
+502,Very Common,mild,1,0.8,Grok
+503,Very Common,mild,0,0.8,Grok
+504,Probable,severe,1,0.6,Grok
+505,Probable,severe,0,0.75,Grok
+506,Probable,mild,1,0.6,Grok
+507,Probable,mild,0,0.6,Grok
+508,Likely,severe,1,0.75,Grok
+509,Likely,severe,0,0.6,Grok
+510,Likely,mild,1,0.6,Grok
+511,Likely,mild,0,0.75,Grok
+512,Usual,severe,1,0.01,Grok
+513,Usual,severe,0,0.5,Grok
+514,Usual,mild,1,0.5,Grok
+515,Usual,mild,0,0.5,Grok
+516,Very Likely,severe,1,0.8,Grok
+517,Very Likely,severe,0,0.8,Grok
+518,Very Likely,mild,1,0.8,Grok
+519,Very Likely,mild,0,0.85,Grok
+520,Rare,severe,1,0.01,Grok
+521,Rare,severe,0,0.01,Grok
+522,Rare,mild,1,0.01,Grok
+523,Rare,mild,0,0.01,Grok
+524,Uncommon,severe,1,0.05,Grok
+525,Uncommon,severe,0,0.1,Grok
+526,Uncommon,mild,1,0.1,Grok
+527,Uncommon,mild,0,0.1,Grok
+528,Unlikely,severe,1,0.1,Grok
+529,Unlikely,severe,0,0.2,Grok
+530,Unlikely,mild,1,0.1,Grok
+531,Unlikely,mild,0,0.2,Grok
+532,Possible,severe,1,0.05,Grok
+533,Possible,severe,0,0.1,Grok
+534,Possible,mild,1,0.1,Grok
+535,Possible,mild,0,0.1,Grok
+536,Common,severe,1,0.25,Grok
+537,Common,severe,0,0.15,Grok
+538,Common,mild,1,0.1,Grok
+539,Common,mild,0,0.2,Grok
+540,Very Common,severe,1,0.25,Grok
+541,Very Common,severe,0,0.3,Grok
+542,Very Common,mild,1,0.8,Grok
+543,Very Common,mild,0,0.8,Grok
+544,Probable,severe,1,0.6,Grok
+545,Probable,severe,0,0.6,Grok
+546,Probable,mild,1,0.6,Grok
+547,Probable,mild,0,0.6,Grok
+548,Likely,severe,1,0.6,Grok
+549,Likely,severe,0,0.75,Grok
+550,Likely,mild,1,0.75,Grok
+551,Likely,mild,0,0.6,Grok
+552,Usual,severe,1,0.01,Grok
+553,Usual,severe,0,0.5,Grok
+554,Usual,mild,1,0.5,Grok
+555,Usual,mild,0,0.5,Grok
+556,Very Likely,severe,1,0.8,Grok
+557,Very Likely,severe,0,0.8,Grok
+558,Very Likely,mild,1,0.85,Grok
+559,Very Likely,mild,0,0.85,Grok
+560,Rare,severe,1,0.01,Grok
+561,Rare,severe,0,0.01,Grok
+562,Rare,mild,1,0.01,Grok
+563,Rare,mild,0,0.01,Grok
+564,Uncommon,severe,1,0.05,Grok
+565,Uncommon,severe,0,0.05,Grok
+566,Uncommon,mild,1,0.1,Grok
+567,Uncommon,mild,0,0.1,Grok
+568,Unlikely,severe,1,0.1,Grok
+569,Unlikely,severe,0,0.1,Grok
+570,Unlikely,mild,1,0.2,Grok
+571,Unlikely,mild,0,0.2,Grok
+572,Possible,severe,1,0.05,Grok
+573,Possible,severe,0,0.1,Grok
+574,Possible,mild,1,0.1,Grok
+575,Possible,mild,0,0.1,Grok
+576,Common,severe,1,0.1,Grok
+577,Common,severe,0,0.15,Grok
+578,Common,mild,1,0.1,Grok
+579,Common,mild,0,0.3,Grok
+580,Very Common,severe,1,0.25,Grok
+581,Very Common,severe,0,0.25,Grok
+582,Very Common,mild,1,0.3,Grok
+583,Very Common,mild,0,0.8,Grok
+584,Probable,severe,1,0.6,Grok
+585,Probable,severe,0,0.6,Grok
+586,Probable,mild,1,0.6,Grok
+587,Probable,mild,0,0.75,Grok
+588,Likely,severe,1,0.6,Grok
+589,Likely,severe,0,0.6,Grok
+590,Likely,mild,1,0.75,Grok
+591,Likely,mild,0,0.6,Grok
+592,Usual,severe,1,0.5,Grok
+593,Usual,severe,0,0.5,Grok
+594,Usual,mild,1,0.5,Grok
+595,Usual,mild,0,0.5,Grok
+596,Very Likely,severe,1,0.8,Grok
+597,Very Likely,severe,0,0.8,Grok
+598,Very Likely,mild,1,0.85,Grok
+599,Very Likely,mild,0,0.8,Grok
+600,Rare,severe,1,0.01,Grok
+601,Rare,severe,0,0.01,Grok
+602,Rare,mild,1,0.01,Grok
+603,Rare,mild,0,0.01,Grok
+604,Uncommon,severe,1,0.05,Grok
+605,Uncommon,severe,0,0.05,Grok
+606,Uncommon,mild,1,0.1,Grok
+607,Uncommon,mild,0,0.1,Grok
+608,Unlikely,severe,1,0.1,Grok
+609,Unlikely,severe,0,0.1,Grok
+610,Unlikely,mild,1,0.1,Grok
+611,Unlikely,mild,0,0.2,Grok
+612,Possible,severe,1,0.1,Grok
+613,Possible,severe,0,0.1,Grok
+614,Possible,mild,1,0.1,Grok
+615,Possible,mild,0,0.1,Grok
+616,Common,severe,1,0.15,Grok
+617,Common,severe,0,0.1,Grok
+618,Common,mild,1,0.2,Grok
+619,Common,mild,0,0.2,Grok
+620,Very Common,severe,1,0.25,Grok
+621,Very Common,severe,0,0.8,Grok
+622,Very Common,mild,1,0.3,Grok
+623,Very Common,mild,0,0.8,Grok
+624,Probable,severe,1,0.6,Grok
+625,Probable,severe,0,0.75,Grok
+626,Probable,mild,1,0.6,Grok
+627,Probable,mild,0,0.75,Grok
+628,Likely,severe,1,0.75,Grok
+629,Likely,severe,0,0.6,Grok
+630,Likely,mild,1,0.75,Grok
+631,Likely,mild,0,0.75,Grok
+632,Usual,severe,1,0.5,Grok
+633,Usual,severe,0,0.5,Grok
+634,Usual,mild,1,0.5,Grok
+635,Usual,mild,0,0.5,Grok
+636,Very Likely,severe,1,0.8,Grok
+637,Very Likely,severe,0,0.8,Grok
+638,Very Likely,mild,1,0.8,Grok
+639,Very Likely,mild,0,0.8,Grok
+640,Rare,severe,1,0.01,Grok
+641,Rare,severe,0,0.01,Grok
+642,Rare,mild,1,0.01,Grok
+643,Rare,mild,0,0.01,Grok
+644,Uncommon,severe,1,0.05,Grok
+645,Uncommon,severe,0,0.05,Grok
+646,Uncommon,mild,1,0.05,Grok
+647,Uncommon,mild,0,0.05,Grok
+648,Unlikely,severe,1,0.1,Grok
+649,Unlikely,severe,0,0.1,Grok
+650,Unlikely,mild,1,0.1,Grok
+651,Unlikely,mild,0,0.1,Grok
+652,Possible,severe,1,0.1,Grok
+653,Possible,severe,0,0.1,Grok
+654,Possible,mild,1,0.1,Grok
+655,Possible,mild,0,0.3,Grok
+656,Common,severe,1,0.15,Grok
+657,Common,severe,0,0.1,Grok
+658,Common,mild,1,0.1,Grok
+659,Common,mild,0,0.2,Grok
+660,Very Common,severe,1,0.15,Grok
+661,Very Common,severe,0,0.25,Grok
+662,Very Common,mild,1,0.8,Grok
+663,Very Common,mild,0,0.8,Grok
+664,Probable,severe,1,0.6,Grok
+665,Probable,severe,0,0.6,Grok
+666,Probable,mild,1,0.6,Grok
+667,Probable,mild,0,0.6,Grok
+668,Likely,severe,1,0.75,Grok
+669,Likely,severe,0,0.6,Grok
+670,Likely,mild,1,0.75,Grok
+671,Likely,mild,0,0.75,Grok
+672,Usual,severe,1,0.1,Grok
+673,Usual,severe,0,0.5,Grok
+674,Usual,mild,1,0.5,Grok
+675,Usual,mild,0,0.6,Grok
+676,Very Likely,severe,1,0.8,Grok
+677,Very Likely,severe,0,0.8,Grok
+678,Very Likely,mild,1,0.85,Grok
+679,Very Likely,mild,0,0.85,Grok
+680,Rare,severe,1,0.01,Grok
+681,Rare,severe,0,0.01,Grok
+682,Rare,mild,1,0.01,Grok
+683,Rare,mild,0,0.01,Grok
+684,Uncommon,severe,1,0.01,Grok
+685,Uncommon,severe,0,0.05,Grok
+686,Uncommon,mild,1,0.1,Grok
+687,Uncommon,mild,0,0.1,Grok
+688,Unlikely,severe,1,0.1,Grok
+689,Unlikely,severe,0,0.1,Grok
+690,Unlikely,mild,1,0.1,Grok
+691,Unlikely,mild,0,0.2,Grok
+692,Possible,severe,1,0.15,Grok
+693,Possible,severe,0,0.1,Grok
+694,Possible,mild,1,0.1,Grok
+695,Possible,mild,0,0.1,Grok
+696,Common,severe,1,0.15,Grok
+697,Common,severe,0,0.1,Grok
+698,Common,mild,1,0.2,Grok
+699,Common,mild,0,0.3,Grok
+700,Very Common,severe,1,0.25,Grok
+701,Very Common,severe,0,0.25,Grok
+702,Very Common,mild,1,0.8,Grok
+703,Very Common,mild,0,0.8,Grok
+704,Probable,severe,1,0.6,Grok
+705,Probable,severe,0,0.75,Grok
+706,Probable,mild,1,0.6,Grok
+707,Probable,mild,0,0.6,Grok
+708,Likely,severe,1,0.75,Grok
+709,Likely,severe,0,0.75,Grok
+710,Likely,mild,1,0.6,Grok
+711,Likely,mild,0,0.6,Grok
+712,Usual,severe,1,0.1,Grok
+713,Usual,severe,0,0.5,Grok
+714,Usual,mild,1,0.5,Grok
+715,Usual,mild,0,0.5,Grok
+716,Very Likely,severe,1,0.8,Grok
+717,Very Likely,severe,0,0.8,Grok
+718,Very Likely,mild,1,0.85,Grok
+719,Very Likely,mild,0,0.85,Grok
+720,Rare,severe,1,0.01,Grok
+721,Rare,severe,0,0.01,Grok
+722,Rare,mild,1,0.01,Grok
+723,Rare,mild,0,0.05,Grok
+724,Uncommon,severe,1,0.01,Grok
+725,Uncommon,severe,0,0.05,Grok
+726,Uncommon,mild,1,0.05,Grok
+727,Uncommon,mild,0,0.1,Grok
+728,Unlikely,severe,1,0.1,Grok
+729,Unlikely,severe,0,0.1,Grok
+730,Unlikely,mild,1,0.1,Grok
+731,Unlikely,mild,0,0.2,Grok
+732,Possible,severe,1,0.05,Grok
+733,Possible,severe,0,0.1,Grok
+734,Possible,mild,1,0.1,Grok
+735,Possible,mild,0,0.2,Grok
+736,Common,severe,1,0.15,Grok
+737,Common,severe,0,0.15,Grok
+738,Common,mild,1,0.2,Grok
+739,Common,mild,0,0.2,Grok
+740,Very Common,severe,1,0.25,Grok
+741,Very Common,severe,0,0.25,Grok
+742,Very Common,mild,1,0.8,Grok
+743,Very Common,mild,0,0.8,Grok
+744,Probable,severe,1,0.6,Grok
+745,Probable,severe,0,0.75,Grok
+746,Probable,mild,1,0.6,Grok
+747,Probable,mild,0,0.75,Grok
+748,Likely,severe,1,0.75,Grok
+749,Likely,severe,0,0.6,Grok
+750,Likely,mild,1,0.75,Grok
+751,Likely,mild,0,0.75,Grok
+752,Usual,severe,1,0.1,Grok
+753,Usual,severe,0,0.5,Grok
+754,Usual,mild,1,0.5,Grok
+755,Usual,mild,0,0.6,Grok
+756,Very Likely,severe,1,0.85,Grok
+757,Very Likely,severe,0,0.8,Grok
+758,Very Likely,mild,1,0.85,Grok
+759,Very Likely,mild,0,0.85,Grok
+760,Rare,severe,1,0.01,Grok
+761,Rare,severe,0,0.01,Grok
+762,Rare,mild,1,0.01,Grok
+763,Rare,mild,0,0.05,Grok
+764,Uncommon,severe,1,0.01,Grok
+765,Uncommon,severe,0,0.05,Grok
+766,Uncommon,mild,1,0.1,Grok
+767,Uncommon,mild,0,0.1,Grok
+768,Unlikely,severe,1,0.1,Grok
+769,Unlikely,severe,0,0.1,Grok
+770,Unlikely,mild,1,0.1,Grok
+771,Unlikely,mild,0,0.2,Grok
+772,Possible,severe,1,0.05,Grok
+773,Possible,severe,0,0.05,Grok
+774,Possible,mild,1,0.1,Grok
+775,Possible,mild,0,0.2,Grok
+776,Common,severe,1,0.15,Grok
+777,Common,severe,0,0.2,Grok
+778,Common,mild,1,0.1,Grok
+779,Common,mild,0,0.3,Grok
+780,Very Common,severe,1,0.15,Grok
+781,Very Common,severe,0,0.25,Grok
+782,Very Common,mild,1,0.8,Grok
+783,Very Common,mild,0,0.8,Grok
+784,Probable,severe,1,0.75,Grok
+785,Probable,severe,0,0.6,Grok
+786,Probable,mild,1,0.6,Grok
+787,Probable,mild,0,0.6,Grok
+788,Likely,severe,1,0.75,Grok
+789,Likely,severe,0,0.6,Grok
+790,Likely,mild,1,0.75,Grok
+791,Likely,mild,0,0.75,Grok
+792,Usual,severe,1,0.01,Grok
+793,Usual,severe,0,0.5,Grok
+794,Usual,mild,1,0.5,Grok
+795,Usual,mild,0,0.6,Grok
+796,Very Likely,severe,1,0.8,Grok
+797,Very Likely,severe,0,0.8,Grok
+798,Very Likely,mild,1,0.8,Grok
+799,Very Likely,mild,0,0.85,Grok
+0,Rare,severe,1,0.01,Gemini
+1,Rare,severe,0,0.05,Gemini
+2,Rare,mild,1,0.05,Gemini
+3,Rare,mild,0,0.05,Gemini
+4,Uncommon,severe,1,0.03,Gemini
+5,Uncommon,severe,0,0.1,Gemini
+6,Uncommon,mild,1,0.03,Gemini
+7,Uncommon,mild,0,0.15,Gemini
+8,Unlikely,severe,1,0.2,Gemini
+9,Unlikely,severe,0,0.15,Gemini
+10,Unlikely,mild,1,0.2,Gemini
+11,Unlikely,mild,0,0.2,Gemini
+12,Possible,severe,1,0.2,Gemini
+13,Possible,severe,0,0.3,Gemini
+14,Possible,mild,1,0.2,Gemini
+15,Possible,mild,0,0.6,Gemini
+16,Common,severe,1,0.5,Gemini
+17,Common,severe,0,0.05,Gemini
+18,Common,mild,1,0.6,Gemini
+19,Common,mild,0,0.6,Gemini
+20,Very Common,severe,1,0.6,Gemini
+21,Very Common,severe,0,0.7,Gemini
+22,Very Common,mild,1,0.7,Gemini
+23,Very Common,mild,0,0.7,Gemini
+24,Probable,severe,1,0.6,Gemini
+25,Probable,severe,0,0.7,Gemini
+26,Probable,mild,1,0.75,Gemini
+27,Probable,mild,0,0.75,Gemini
+28,Likely,severe,1,0.75,Gemini
+29,Likely,severe,0,0.7,Gemini
+30,Likely,mild,1,0.75,Gemini
+31,Likely,mild,0,0.75,Gemini
+32,Usual,severe,1,0.5,Gemini
+33,Usual,severe,0,0.5,Gemini
+34,Usual,mild,1,0.5,Gemini
+35,Usual,mild,0,0.5,Gemini
+36,Very Likely,severe,1,0.85,Gemini
+37,Very Likely,severe,0,0.9,Gemini
+38,Very Likely,mild,1,0.85,Gemini
+39,Very Likely,mild,0,0.9,Gemini
+40,Rare,severe,1,0.01,Gemini
+41,Rare,severe,0,0.05,Gemini
+42,Rare,mild,1,0.03,Gemini
+43,Rare,mild,0,0.05,Gemini
+44,Uncommon,severe,1,0.01,Gemini
+45,Uncommon,severe,0,0.1,Gemini
+46,Uncommon,mild,1,0.1,Gemini
+47,Uncommon,mild,0,0.1,Gemini
+48,Unlikely,severe,1,0.2,Gemini
+49,Unlikely,severe,0,0.15,Gemini
+50,Unlikely,mild,1,0.2,Gemini
+51,Unlikely,mild,0,0.2,Gemini
+52,Possible,severe,1,0.05,Gemini
+53,Possible,severe,0,0.2,Gemini
+54,Possible,mild,1,0.4,Gemini
+55,Possible,mild,0,0.5,Gemini
+56,Common,severe,1,0.5,Gemini
+57,Common,severe,0,0.05,Gemini
+58,Common,mild,1,0.5,Gemini
+59,Common,mild,0,0.6,Gemini
+60,Very Common,severe,1,0.6,Gemini
+61,Very Common,severe,0,0.7,Gemini
+62,Very Common,mild,1,0.75,Gemini
+63,Very Common,mild,0,0.7,Gemini
+64,Probable,severe,1,0.6,Gemini
+65,Probable,severe,0,0.7,Gemini
+66,Probable,mild,1,0.75,Gemini
+67,Probable,mild,0,0.75,Gemini
+68,Likely,severe,1,0.75,Gemini
+69,Likely,severe,0,0.75,Gemini
+70,Likely,mild,1,0.75,Gemini
+71,Likely,mild,0,0.75,Gemini
+72,Usual,severe,1,0.5,Gemini
+73,Usual,severe,0,0.5,Gemini
+74,Usual,mild,1,0.5,Gemini
+75,Usual,mild,0,0.5,Gemini
+76,Very Likely,severe,1,0.85,Gemini
+77,Very Likely,severe,0,0.9,Gemini
+78,Very Likely,mild,1,0.85,Gemini
+79,Very Likely,mild,0,0.9,Gemini
+80,Rare,severe,1,0.01,Gemini
+81,Rare,severe,0,0.05,Gemini
+82,Rare,mild,1,0.05,Gemini
+83,Rare,mild,0,0.05,Gemini
+84,Uncommon,severe,1,0.05,Gemini
+85,Uncommon,severe,0,0.1,Gemini
+86,Uncommon,mild,1,0.1,Gemini
+87,Uncommon,mild,0,0.1,Gemini
+88,Unlikely,severe,1,0.2,Gemini
+89,Unlikely,severe,0,0.2,Gemini
+90,Unlikely,mild,1,0.2,Gemini
+91,Unlikely,mild,0,0.2,Gemini
+92,Possible,severe,1,0.2,Gemini
+93,Possible,severe,0,0.3,Gemini
+94,Possible,mild,1,0.1,Gemini
+95,Possible,mild,0,0.5,Gemini
+96,Common,severe,1,0.5,Gemini
+97,Common,severe,0,0.6,Gemini
+98,Common,mild,1,0.5,Gemini
+99,Common,mild,0,0.7,Gemini
+100,Very Common,severe,1,0.6,Gemini
+101,Very Common,severe,0,0.7,Gemini
+102,Very Common,mild,1,0.75,Gemini
+103,Very Common,mild,0,0.7,Gemini
+104,Probable,severe,1,0.6,Gemini
+105,Probable,severe,0,0.7,Gemini
+106,Probable,mild,1,0.75,Gemini
+107,Probable,mild,0,0.75,Gemini
+108,Likely,severe,1,0.75,Gemini
+109,Likely,severe,0,0.7,Gemini
+110,Likely,mild,1,0.75,Gemini
+111,Likely,mild,0,0.7,Gemini
+112,Usual,severe,1,0.5,Gemini
+113,Usual,severe,0,0.5,Gemini
+114,Usual,mild,1,0.5,Gemini
+115,Usual,mild,0,0.5,Gemini
+116,Very Likely,severe,1,0.75,Gemini
+117,Very Likely,severe,0,0.9,Gemini
+118,Very Likely,mild,1,0.85,Gemini
+119,Very Likely,mild,0,0.9,Gemini
+120,Rare,severe,1,0.01,Gemini
+121,Rare,severe,0,0.05,Gemini
+122,Rare,mild,1,0.03,Gemini
+123,Rare,mild,0,0.05,Gemini
+124,Uncommon,severe,1,0.1,Gemini
+125,Uncommon,severe,0,0.1,Gemini
+126,Uncommon,mild,1,0.03,Gemini
+127,Uncommon,mild,0,0.15,Gemini
+128,Unlikely,severe,1,0.2,Gemini
+129,Unlikely,severe,0,0.2,Gemini
+130,Unlikely,mild,1,0.2,Gemini
+131,Unlikely,mild,0,0.2,Gemini
+132,Possible,severe,1,0.05,Gemini
+133,Possible,severe,0,0.3,Gemini
+134,Possible,mild,1,0.25,Gemini
+135,Possible,mild,0,0.5,Gemini
+136,Common,severe,1,0.5,Gemini
+137,Common,severe,0,0.06,Gemini
+138,Common,mild,1,0.5,Gemini
+139,Common,mild,0,0.7,Gemini
+140,Very Common,severe,1,0.6,Gemini
+141,Very Common,severe,0,0.7,Gemini
+142,Very Common,mild,1,0.6,Gemini
+143,Very Common,mild,0,0.7,Gemini
+144,Probable,severe,1,0.6,Gemini
+145,Probable,severe,0,0.7,Gemini
+146,Probable,mild,1,0.75,Gemini
+147,Probable,mild,0,0.75,Gemini
+148,Likely,severe,1,0.75,Gemini
+149,Likely,severe,0,0.7,Gemini
+150,Likely,mild,1,0.75,Gemini
+151,Likely,mild,0,0.75,Gemini
+152,Usual,severe,1,0.5,Gemini
+153,Usual,severe,0,0.5,Gemini
+154,Usual,mild,1,0.5,Gemini
+155,Usual,mild,0,0.5,Gemini
+156,Very Likely,severe,1,0.75,Gemini
+157,Very Likely,severe,0,0.9,Gemini
+158,Very Likely,mild,1,0.85,Gemini
+159,Very Likely,mild,0,0.9,Gemini
+160,Rare,severe,1,0.03,Gemini
+161,Rare,severe,0,0.05,Gemini
+162,Rare,mild,1,0.05,Gemini
+163,Rare,mild,0,0.05,Gemini
+164,Uncommon,severe,1,0.1,Gemini
+165,Uncommon,severe,0,0.1,Gemini
+166,Uncommon,mild,1,0.1,Gemini
+167,Uncommon,mild,0,0.1,Gemini
+168,Unlikely,severe,1,0.2,Gemini
+169,Unlikely,severe,0,0.2,Gemini
+170,Unlikely,mild,1,0.2,Gemini
+171,Unlikely,mild,0,0.2,Gemini
+172,Possible,severe,1,0.2,Gemini
+173,Possible,severe,0,0.3,Gemini
+174,Possible,mild,1,0.4,Gemini
+175,Possible,mild,0,0.6,Gemini
+176,Common,severe,1,0.5,Gemini
+177,Common,severe,0,0.05,Gemini
+178,Common,mild,1,0.5,Gemini
+179,Common,mild,0,0.7,Gemini
+180,Very Common,severe,1,0.7,Gemini
+181,Very Common,severe,0,0.7,Gemini
+182,Very Common,mild,1,0.65,Gemini
+183,Very Common,mild,0,0.7,Gemini
+184,Probable,severe,1,0.6,Gemini
+185,Probable,severe,0,0.7,Gemini
+186,Probable,mild,1,0.75,Gemini
+187,Probable,mild,0,0.75,Gemini
+188,Likely,severe,1,0.75,Gemini
+189,Likely,severe,0,0.7,Gemini
+190,Likely,mild,1,0.75,Gemini
+191,Likely,mild,0,0.75,Gemini
+192,Usual,severe,1,0.5,Gemini
+193,Usual,severe,0,0.5,Gemini
+194,Usual,mild,1,0.5,Gemini
+195,Usual,mild,0,0.5,Gemini
+196,Very Likely,severe,1,0.85,Gemini
+197,Very Likely,severe,0,0.9,Gemini
+198,Very Likely,mild,1,0.85,Gemini
+199,Very Likely,mild,0,0.9,Gemini
+200,Rare,severe,1,0.01,Gemini
+201,Rare,severe,0,0.05,Gemini
+202,Rare,mild,1,0.05,Gemini
+203,Rare,mild,0,0.05,Gemini
+204,Uncommon,severe,1,0.05,Gemini
+205,Uncommon,severe,0,0.1,Gemini
+206,Uncommon,mild,1,0.03,Gemini
+207,Uncommon,mild,0,0.15,Gemini
+208,Unlikely,severe,1,0.2,Gemini
+209,Unlikely,severe,0,0.2,Gemini
+210,Unlikely,mild,1,0.2,Gemini
+211,Unlikely,mild,0,0.2,Gemini
+212,Possible,severe,1,0.05,Gemini
+213,Possible,severe,0,0.3,Gemini
+214,Possible,mild,1,0.3,Gemini
+215,Possible,mild,0,0.6,Gemini
+216,Common,severe,1,0.5,Gemini
+217,Common,severe,0,0.06,Gemini
+218,Common,mild,1,0.5,Gemini
+219,Common,mild,0,0.7,Gemini
+220,Very Common,severe,1,0.6,Gemini
+221,Very Common,severe,0,0.7,Gemini
+222,Very Common,mild,1,0.75,Gemini
+223,Very Common,mild,0,0.7,Gemini
+224,Probable,severe,1,0.6,Gemini
+225,Probable,severe,0,0.7,Gemini
+226,Probable,mild,1,0.75,Gemini
+227,Probable,mild,0,0.75,Gemini
+228,Likely,severe,1,0.75,Gemini
+229,Likely,severe,0,0.75,Gemini
+230,Likely,mild,1,0.75,Gemini
+231,Likely,mild,0,0.75,Gemini
+232,Usual,severe,1,0.5,Gemini
+233,Usual,severe,0,0.5,Gemini
+234,Usual,mild,1,0.5,Gemini
+235,Usual,mild,0,0.5,Gemini
+236,Very Likely,severe,1,0.85,Gemini
+237,Very Likely,severe,0,0.9,Gemini
+238,Very Likely,mild,1,0.85,Gemini
+239,Very Likely,mild,0,0.9,Gemini
+240,Rare,severe,1,0.01,Gemini
+241,Rare,severe,0,0.05,Gemini
+242,Rare,mild,1,0.03,Gemini
+243,Rare,mild,0,0.05,Gemini
+244,Uncommon,severe,1,0.05,Gemini
+245,Uncommon,severe,0,0.1,Gemini
+246,Uncommon,mild,1,0.03,Gemini
+247,Uncommon,mild,0,0.1,Gemini
+248,Unlikely,severe,1,0.2,Gemini
+249,Unlikely,severe,0,0.2,Gemini
+250,Unlikely,mild,1,0.2,Gemini
+251,Unlikely,mild,0,0.2,Gemini
+252,Possible,severe,1,0.05,Gemini
+253,Possible,severe,0,0.3,Gemini
+254,Possible,mild,1,0.4,Gemini
+255,Possible,mild,0,0.6,Gemini
+256,Common,severe,1,0.5,Gemini
+257,Common,severe,0,0.05,Gemini
+258,Common,mild,1,0.5,Gemini
+259,Common,mild,0,0.6,Gemini
+260,Very Common,severe,1,0.6,Gemini
+261,Very Common,severe,0,0.7,Gemini
+262,Very Common,mild,1,0.75,Gemini
+263,Very Common,mild,0,0.7,Gemini
+264,Probable,severe,1,0.75,Gemini
+265,Probable,severe,0,0.7,Gemini
+266,Probable,mild,1,0.75,Gemini
+267,Probable,mild,0,0.75,Gemini
+268,Likely,severe,1,0.75,Gemini
+269,Likely,severe,0,0.75,Gemini
+270,Likely,mild,1,0.75,Gemini
+271,Likely,mild,0,0.75,Gemini
+272,Usual,severe,1,0.5,Gemini
+273,Usual,severe,0,0.5,Gemini
+274,Usual,mild,1,0.5,Gemini
+275,Usual,mild,0,0.5,Gemini
+276,Very Likely,severe,1,0.75,Gemini
+277,Very Likely,severe,0,0.9,Gemini
+278,Very Likely,mild,1,0.75,Gemini
+279,Very Likely,mild,0,0.9,Gemini
+280,Rare,severe,1,0.01,Gemini
+281,Rare,severe,0,0.05,Gemini
+282,Rare,mild,1,0.05,Gemini
+283,Rare,mild,0,0.05,Gemini
+284,Uncommon,severe,1,0.1,Gemini
+285,Uncommon,severe,0,0.1,Gemini
+286,Uncommon,mild,1,0.03,Gemini
+287,Uncommon,mild,0,0.15,Gemini
+288,Unlikely,severe,1,0.2,Gemini
+289,Unlikely,severe,0,0.2,Gemini
+290,Unlikely,mild,1,0.2,Gemini
+291,Unlikely,mild,0,0.2,Gemini
+292,Possible,severe,1,0.05,Gemini
+293,Possible,severe,0,0.3,Gemini
+294,Possible,mild,1,0.2,Gemini
+295,Possible,mild,0,0.5,Gemini
+296,Common,severe,1,0.5,Gemini
+297,Common,severe,0,0.6,Gemini
+298,Common,mild,1,0.5,Gemini
+299,Common,mild,0,0.7,Gemini
+300,Very Common,severe,1,0.6,Gemini
+301,Very Common,severe,0,0.7,Gemini
+302,Very Common,mild,1,0.75,Gemini
+303,Very Common,mild,0,0.7,Gemini
+304,Probable,severe,1,0.6,Gemini
+305,Probable,severe,0,0.7,Gemini
+306,Probable,mild,1,0.75,Gemini
+307,Probable,mild,0,0.75,Gemini
+308,Likely,severe,1,0.6,Gemini
+309,Likely,severe,0,0.7,Gemini
+310,Likely,mild,1,0.75,Gemini
+311,Likely,mild,0,0.75,Gemini
+312,Usual,severe,1,0.5,Gemini
+313,Usual,severe,0,0.5,Gemini
+314,Usual,mild,1,0.5,Gemini
+315,Usual,mild,0,0.5,Gemini
+316,Very Likely,severe,1,0.85,Gemini
+317,Very Likely,severe,0,0.9,Gemini
+318,Very Likely,mild,1,0.85,Gemini
+319,Very Likely,mild,0,0.9,Gemini
+320,Rare,severe,1,0.01,Gemini
+321,Rare,severe,0,0.05,Gemini
+322,Rare,mild,1,0.05,Gemini
+323,Rare,mild,0,0.05,Gemini
+324,Uncommon,severe,1,0.1,Gemini
+325,Uncommon,severe,0,0.1,Gemini
+326,Uncommon,mild,1,0.1,Gemini
+327,Uncommon,mild,0,0.1,Gemini
+328,Unlikely,severe,1,0.2,Gemini
+329,Unlikely,severe,0,0.2,Gemini
+330,Unlikely,mild,1,0.1,Gemini
+331,Unlikely,mild,0,0.2,Gemini
+332,Possible,severe,1,0.05,Gemini
+333,Possible,severe,0,0.3,Gemini
+334,Possible,mild,1,0.2,Gemini
+335,Possible,mild,0,0.5,Gemini
+336,Common,severe,1,0.5,Gemini
+337,Common,severe,0,0.6,Gemini
+338,Common,mild,1,0.5,Gemini
+339,Common,mild,0,0.6,Gemini
+340,Very Common,severe,1,0.6,Gemini
+341,Very Common,severe,0,0.7,Gemini
+342,Very Common,mild,1,0.75,Gemini
+343,Very Common,mild,0,0.7,Gemini
+344,Probable,severe,1,0.6,Gemini
+345,Probable,severe,0,0.7,Gemini
+346,Probable,mild,1,0.75,Gemini
+347,Probable,mild,0,0.75,Gemini
+348,Likely,severe,1,0.6,Gemini
+349,Likely,severe,0,0.7,Gemini
+350,Likely,mild,1,0.75,Gemini
+351,Likely,mild,0,0.75,Gemini
+352,Usual,severe,1,0.5,Gemini
+353,Usual,severe,0,0.5,Gemini
+354,Usual,mild,1,0.5,Gemini
+355,Usual,mild,0,0.5,Gemini
+356,Very Likely,severe,1,0.85,Gemini
+357,Very Likely,severe,0,0.9,Gemini
+358,Very Likely,mild,1,0.85,Gemini
+359,Very Likely,mild,0,0.9,Gemini
+360,Rare,severe,1,0.01,Gemini
+361,Rare,severe,0,0.05,Gemini
+362,Rare,mild,1,0.03,Gemini
+363,Rare,mild,0,0.05,Gemini
+364,Uncommon,severe,1,0.01,Gemini
+365,Uncommon,severe,0,0.1,Gemini
+366,Uncommon,mild,1,0.1,Gemini
+367,Uncommon,mild,0,0.15,Gemini
+368,Unlikely,severe,1,0.2,Gemini
+369,Unlikely,severe,0,0.1,Gemini
+370,Unlikely,mild,1,0.2,Gemini
+371,Unlikely,mild,0,0.2,Gemini
+372,Possible,severe,1,0.05,Gemini
+373,Possible,severe,0,0.3,Gemini
+374,Possible,mild,1,0.4,Gemini
+375,Possible,mild,0,0.5,Gemini
+376,Common,severe,1,0.5,Gemini
+377,Common,severe,0,0.6,Gemini
+378,Common,mild,1,0.5,Gemini
+379,Common,mild,0,0.7,Gemini
+380,Very Common,severe,1,0.6,Gemini
+381,Very Common,severe,0,0.7,Gemini
+382,Very Common,mild,1,0.75,Gemini
+383,Very Common,mild,0,0.7,Gemini
+384,Probable,severe,1,0.75,Gemini
+385,Probable,severe,0,0.7,Gemini
+386,Probable,mild,1,0.75,Gemini
+387,Probable,mild,0,0.75,Gemini
+388,Likely,severe,1,0.75,Gemini
+389,Likely,severe,0,0.7,Gemini
+390,Likely,mild,1,0.75,Gemini
+391,Likely,mild,0,0.75,Gemini
+392,Usual,severe,1,0.5,Gemini
+393,Usual,severe,0,0.5,Gemini
+394,Usual,mild,1,0.5,Gemini
+395,Usual,mild,0,0.5,Gemini
+396,Very Likely,severe,1,0.85,Gemini
+397,Very Likely,severe,0,0.9,Gemini
+398,Very Likely,mild,1,0.85,Gemini
+399,Very Likely,mild,0,0.9,Gemini
+400,Rare,severe,1,0.03,Gemini
+401,Rare,severe,0,0.05,Gemini
+402,Rare,mild,1,0.05,Gemini
+403,Rare,mild,0,0.1,Gemini
+404,Uncommon,severe,1,0.1,Gemini
+405,Uncommon,severe,0,0.1,Gemini
+406,Uncommon,mild,1,0.03,Gemini
+407,Uncommon,mild,0,0.1,Gemini
+408,Unlikely,severe,1,0.2,Gemini
+409,Unlikely,severe,0,0.2,Gemini
+410,Unlikely,mild,1,0.2,Gemini
+411,Unlikely,mild,0,0.2,Gemini
+412,Possible,severe,1,0.05,Gemini
+413,Possible,severe,0,0.05,Gemini
+414,Possible,mild,1,0.2,Gemini
+415,Possible,mild,0,0.6,Gemini
+416,Common,severe,1,0.5,Gemini
+417,Common,severe,0,0.6,Gemini
+418,Common,mild,1,0.5,Gemini
+419,Common,mild,0,0.7,Gemini
+420,Very Common,severe,1,0.75,Gemini
+421,Very Common,severe,0,0.7,Gemini
+422,Very Common,mild,1,0.75,Gemini
+423,Very Common,mild,0,0.7,Gemini
+424,Probable,severe,1,0.6,Gemini
+425,Probable,severe,0,0.7,Gemini
+426,Probable,mild,1,0.75,Gemini
+427,Probable,mild,0,0.75,Gemini
+428,Likely,severe,1,0.75,Gemini
+429,Likely,severe,0,0.75,Gemini
+430,Likely,mild,1,0.75,Gemini
+431,Likely,mild,0,0.75,Gemini
+432,Usual,severe,1,0.5,Gemini
+433,Usual,severe,0,0.5,Gemini
+434,Usual,mild,1,0.5,Gemini
+435,Usual,mild,0,0.5,Gemini
+436,Very Likely,severe,1,0.75,Gemini
+437,Very Likely,severe,0,0.9,Gemini
+438,Very Likely,mild,1,0.85,Gemini
+439,Very Likely,mild,0,0.9,Gemini
+440,Rare,severe,1,0.01,Gemini
+441,Rare,severe,0,0.05,Gemini
+442,Rare,mild,1,0.03,Gemini
+443,Rare,mild,0,0.05,Gemini
+444,Uncommon,severe,1,0.1,Gemini
+445,Uncommon,severe,0,0.1,Gemini
+446,Uncommon,mild,1,0.1,Gemini
+447,Uncommon,mild,0,0.1,Gemini
+448,Unlikely,severe,1,0.2,Gemini
+449,Unlikely,severe,0,0.2,Gemini
+450,Unlikely,mild,1,0.2,Gemini
+451,Unlikely,mild,0,0.2,Gemini
+452,Possible,severe,1,0.05,Gemini
+453,Possible,severe,0,0.3,Gemini
+454,Possible,mild,1,0.2,Gemini
+455,Possible,mild,0,0.6,Gemini
+456,Common,severe,1,0.5,Gemini
+457,Common,severe,0,0.6,Gemini
+458,Common,mild,1,0.5,Gemini
+459,Common,mild,0,0.7,Gemini
+460,Very Common,severe,1,0.6,Gemini
+461,Very Common,severe,0,0.7,Gemini
+462,Very Common,mild,1,0.75,Gemini
+463,Very Common,mild,0,0.7,Gemini
+464,Probable,severe,1,0.6,Gemini
+465,Probable,severe,0,0.75,Gemini
+466,Probable,mild,1,0.75,Gemini
+467,Probable,mild,0,0.75,Gemini
+468,Likely,severe,1,0.75,Gemini
+469,Likely,severe,0,0.7,Gemini
+470,Likely,mild,1,0.75,Gemini
+471,Likely,mild,0,0.7,Gemini
+472,Usual,severe,1,0.5,Gemini
+473,Usual,severe,0,0.5,Gemini
+474,Usual,mild,1,0.5,Gemini
+475,Usual,mild,0,0.5,Gemini
+476,Very Likely,severe,1,0.75,Gemini
+477,Very Likely,severe,0,0.9,Gemini
+478,Very Likely,mild,1,0.75,Gemini
+479,Very Likely,mild,0,0.9,Gemini
+480,Rare,severe,1,0.01,Gemini
+481,Rare,severe,0,0.05,Gemini
+482,Rare,mild,1,0.03,Gemini
+483,Rare,mild,0,0.1,Gemini
+484,Uncommon,severe,1,0.03,Gemini
+485,Uncommon,severe,0,0.1,Gemini
+486,Uncommon,mild,1,0.03,Gemini
+487,Uncommon,mild,0,0.15,Gemini
+488,Unlikely,severe,1,0.2,Gemini
+489,Unlikely,severe,0,0.2,Gemini
+490,Unlikely,mild,1,0.15,Gemini
+491,Unlikely,mild,0,0.2,Gemini
+492,Possible,severe,1,0.05,Gemini
+493,Possible,severe,0,0.3,Gemini
+494,Possible,mild,1,0.25,Gemini
+495,Possible,mild,0,0.6,Gemini
+496,Common,severe,1,0.5,Gemini
+497,Common,severe,0,0.05,Gemini
+498,Common,mild,1,0.5,Gemini
+499,Common,mild,0,0.6,Gemini
+500,Very Common,severe,1,0.6,Gemini
+501,Very Common,severe,0,0.7,Gemini
+502,Very Common,mild,1,0.75,Gemini
+503,Very Common,mild,0,0.7,Gemini
+504,Probable,severe,1,0.6,Gemini
+505,Probable,severe,0,0.75,Gemini
+506,Probable,mild,1,0.75,Gemini
+507,Probable,mild,0,0.75,Gemini
+508,Likely,severe,1,0.75,Gemini
+509,Likely,severe,0,0.7,Gemini
+510,Likely,mild,1,0.75,Gemini
+511,Likely,mild,0,0.75,Gemini
+512,Usual,severe,1,0.5,Gemini
+513,Usual,severe,0,0.5,Gemini
+514,Usual,mild,1,0.5,Gemini
+515,Usual,mild,0,0.5,Gemini
+516,Very Likely,severe,1,0.75,Gemini
+517,Very Likely,severe,0,0.9,Gemini
+518,Very Likely,mild,1,0.85,Gemini
+519,Very Likely,mild,0,0.9,Gemini
+520,Rare,severe,1,0.01,Gemini
+521,Rare,severe,0,0.05,Gemini
+522,Rare,mild,1,0.03,Gemini
+523,Rare,mild,0,0.05,Gemini
+524,Uncommon,severe,1,0.01,Gemini
+525,Uncommon,severe,0,0.1,Gemini
+526,Uncommon,mild,1,0.1,Gemini
+527,Uncommon,mild,0,0.1,Gemini
+528,Unlikely,severe,1,0.2,Gemini
+529,Unlikely,severe,0,0.1,Gemini
+530,Unlikely,mild,1,0.2,Gemini
+531,Unlikely,mild,0,0.2,Gemini
+532,Possible,severe,1,0.05,Gemini
+533,Possible,severe,0,0.3,Gemini
+534,Possible,mild,1,0.3,Gemini
+535,Possible,mild,0,0.6,Gemini
+536,Common,severe,1,0.5,Gemini
+537,Common,severe,0,0.6,Gemini
+538,Common,mild,1,0.6,Gemini
+539,Common,mild,0,0.7,Gemini
+540,Very Common,severe,1,0.6,Gemini
+541,Very Common,severe,0,0.7,Gemini
+542,Very Common,mild,1,0.65,Gemini
+543,Very Common,mild,0,0.7,Gemini
+544,Probable,severe,1,0.6,Gemini
+545,Probable,severe,0,0.75,Gemini
+546,Probable,mild,1,0.75,Gemini
+547,Probable,mild,0,0.75,Gemini
+548,Likely,severe,1,0.75,Gemini
+549,Likely,severe,0,0.7,Gemini
+550,Likely,mild,1,0.75,Gemini
+551,Likely,mild,0,0.75,Gemini
+552,Usual,severe,1,0.5,Gemini
+553,Usual,severe,0,0.5,Gemini
+554,Usual,mild,1,0.5,Gemini
+555,Usual,mild,0,0.5,Gemini
+556,Very Likely,severe,1,0.85,Gemini
+557,Very Likely,severe,0,0.9,Gemini
+558,Very Likely,mild,1,0.75,Gemini
+559,Very Likely,mild,0,0.9,Gemini
+560,Rare,severe,1,0.01,Gemini
+561,Rare,severe,0,0.05,Gemini
+562,Rare,mild,1,0.05,Gemini
+563,Rare,mild,0,0.1,Gemini
+564,Uncommon,severe,1,0.03,Gemini
+565,Uncommon,severe,0,0.1,Gemini
+566,Uncommon,mild,1,0.1,Gemini
+567,Uncommon,mild,0,0.1,Gemini
+568,Unlikely,severe,1,0.2,Gemini
+569,Unlikely,severe,0,0.2,Gemini
+570,Unlikely,mild,1,0.2,Gemini
+571,Unlikely,mild,0,0.2,Gemini
+572,Possible,severe,1,0.2,Gemini
+573,Possible,severe,0,0.3,Gemini
+574,Possible,mild,1,0.3,Gemini
+575,Possible,mild,0,0.6,Gemini
+576,Common,severe,1,0.5,Gemini
+577,Common,severe,0,0.6,Gemini
+578,Common,mild,1,0.5,Gemini
+579,Common,mild,0,0.7,Gemini
+580,Very Common,severe,1,0.6,Gemini
+581,Very Common,severe,0,0.7,Gemini
+582,Very Common,mild,1,0.75,Gemini
+583,Very Common,mild,0,0.7,Gemini
+584,Probable,severe,1,0.6,Gemini
+585,Probable,severe,0,0.7,Gemini
+586,Probable,mild,1,0.75,Gemini
+587,Probable,mild,0,0.75,Gemini
+588,Likely,severe,1,0.75,Gemini
+589,Likely,severe,0,0.7,Gemini
+590,Likely,mild,1,0.75,Gemini
+591,Likely,mild,0,0.75,Gemini
+592,Usual,severe,1,0.5,Gemini
+593,Usual,severe,0,0.5,Gemini
+594,Usual,mild,1,0.5,Gemini
+595,Usual,mild,0,0.5,Gemini
+596,Very Likely,severe,1,0.75,Gemini
+597,Very Likely,severe,0,0.9,Gemini
+598,Very Likely,mild,1,0.85,Gemini
+599,Very Likely,mild,0,0.9,Gemini
+600,Rare,severe,1,0.01,Gemini
+601,Rare,severe,0,0.05,Gemini
+602,Rare,mild,1,0.05,Gemini
+603,Rare,mild,0,0.05,Gemini
+604,Uncommon,severe,1,0.01,Gemini
+605,Uncommon,severe,0,0.1,Gemini
+606,Uncommon,mild,1,0.1,Gemini
+607,Uncommon,mild,0,0.15,Gemini
+608,Unlikely,severe,1,0.2,Gemini
+609,Unlikely,severe,0,0.2,Gemini
+610,Unlikely,mild,1,0.2,Gemini
+611,Unlikely,mild,0,0.2,Gemini
+612,Possible,severe,1,0.05,Gemini
+613,Possible,severe,0,0.3,Gemini
+614,Possible,mild,1,0.2,Gemini
+615,Possible,mild,0,0.5,Gemini
+616,Common,severe,1,0.5,Gemini
+617,Common,severe,0,0.6,Gemini
+618,Common,mild,1,0.5,Gemini
+619,Common,mild,0,0.6,Gemini
+620,Very Common,severe,1,0.6,Gemini
+621,Very Common,severe,0,0.7,Gemini
+622,Very Common,mild,1,0.75,Gemini
+623,Very Common,mild,0,0.7,Gemini
+624,Probable,severe,1,0.6,Gemini
+625,Probable,severe,0,0.7,Gemini
+626,Probable,mild,1,0.75,Gemini
+627,Probable,mild,0,0.75,Gemini
+628,Likely,severe,1,0.75,Gemini
+629,Likely,severe,0,0.7,Gemini
+630,Likely,mild,1,0.75,Gemini
+631,Likely,mild,0,0.75,Gemini
+632,Usual,severe,1,0.5,Gemini
+633,Usual,severe,0,0.5,Gemini
+634,Usual,mild,1,0.5,Gemini
+635,Usual,mild,0,0.5,Gemini
+636,Very Likely,severe,1,0.75,Gemini
+637,Very Likely,severe,0,0.9,Gemini
+638,Very Likely,mild,1,0.85,Gemini
+639,Very Likely,mild,0,0.9,Gemini
+640,Rare,severe,1,0.01,Gemini
+641,Rare,severe,0,0.05,Gemini
+642,Rare,mild,1,0.03,Gemini
+643,Rare,mild,0,0.05,Gemini
+644,Uncommon,severe,1,0.1,Gemini
+645,Uncommon,severe,0,0.1,Gemini
+646,Uncommon,mild,1,0.03,Gemini
+647,Uncommon,mild,0,0.1,Gemini
+648,Unlikely,severe,1,0.2,Gemini
+649,Unlikely,severe,0,0.2,Gemini
+650,Unlikely,mild,1,0.2,Gemini
+651,Unlikely,mild,0,0.2,Gemini
+652,Possible,severe,1,0.25,Gemini
+653,Possible,severe,0,0.05,Gemini
+654,Possible,mild,1,0.3,Gemini
+655,Possible,mild,0,0.5,Gemini
+656,Common,severe,1,0.5,Gemini
+657,Common,severe,0,0.6,Gemini
+658,Common,mild,1,0.5,Gemini
+659,Common,mild,0,0.6,Gemini
+660,Very Common,severe,1,0.6,Gemini
+661,Very Common,severe,0,0.7,Gemini
+662,Very Common,mild,1,0.75,Gemini
+663,Very Common,mild,0,0.7,Gemini
+664,Probable,severe,1,0.6,Gemini
+665,Probable,severe,0,0.7,Gemini
+666,Probable,mild,1,0.75,Gemini
+667,Probable,mild,0,0.75,Gemini
+668,Likely,severe,1,0.6,Gemini
+669,Likely,severe,0,0.7,Gemini
+670,Likely,mild,1,0.75,Gemini
+671,Likely,mild,0,0.75,Gemini
+672,Usual,severe,1,0.5,Gemini
+673,Usual,severe,0,0.5,Gemini
+674,Usual,mild,1,0.5,Gemini
+675,Usual,mild,0,0.5,Gemini
+676,Very Likely,severe,1,0.75,Gemini
+677,Very Likely,severe,0,0.9,Gemini
+678,Very Likely,mild,1,0.75,Gemini
+679,Very Likely,mild,0,0.9,Gemini
+680,Rare,severe,1,0.01,Gemini
+681,Rare,severe,0,0.05,Gemini
+682,Rare,mild,1,0.05,Gemini
+683,Rare,mild,0,0.05,Gemini
+684,Uncommon,severe,1,0.01,Gemini
+685,Uncommon,severe,0,0.1,Gemini
+686,Uncommon,mild,1,0.1,Gemini
+687,Uncommon,mild,0,0.1,Gemini
+688,Unlikely,severe,1,0.2,Gemini
+689,Unlikely,severe,0,0.2,Gemini
+690,Unlikely,mild,1,0.2,Gemini
+691,Unlikely,mild,0,0.2,Gemini
+692,Possible,severe,1,0.2,Gemini
+693,Possible,severe,0,0.05,Gemini
+694,Possible,mild,1,0.2,Gemini
+695,Possible,mild,0,0.6,Gemini
+696,Common,severe,1,0.5,Gemini
+697,Common,severe,0,0.6,Gemini
+698,Common,mild,1,0.6,Gemini
+699,Common,mild,0,0.6,Gemini
+700,Very Common,severe,1,0.7,Gemini
+701,Very Common,severe,0,0.7,Gemini
+702,Very Common,mild,1,0.75,Gemini
+703,Very Common,mild,0,0.7,Gemini
+704,Probable,severe,1,0.6,Gemini
+705,Probable,severe,0,0.75,Gemini
+706,Probable,mild,1,0.75,Gemini
+707,Probable,mild,0,0.75,Gemini
+708,Likely,severe,1,0.75,Gemini
+709,Likely,severe,0,0.75,Gemini
+710,Likely,mild,1,0.75,Gemini
+711,Likely,mild,0,0.75,Gemini
+712,Usual,severe,1,0.5,Gemini
+713,Usual,severe,0,0.5,Gemini
+714,Usual,mild,1,0.5,Gemini
+715,Usual,mild,0,0.5,Gemini
+716,Very Likely,severe,1,0.85,Gemini
+717,Very Likely,severe,0,0.9,Gemini
+718,Very Likely,mild,1,0.85,Gemini
+719,Very Likely,mild,0,0.9,Gemini
+720,Rare,severe,1,0.01,Gemini
+721,Rare,severe,0,0.05,Gemini
+722,Rare,mild,1,0.03,Gemini
+723,Rare,mild,0,0.05,Gemini
+724,Uncommon,severe,1,0.1,Gemini
+725,Uncommon,severe,0,0.1,Gemini
+726,Uncommon,mild,1,0.1,Gemini
+727,Uncommon,mild,0,0.1,Gemini
+728,Unlikely,severe,1,0.1,Gemini
+729,Unlikely,severe,0,0.2,Gemini
+730,Unlikely,mild,1,0.2,Gemini
+731,Unlikely,mild,0,0.2,Gemini
+732,Possible,severe,1,0.05,Gemini
+733,Possible,severe,0,0.3,Gemini
+734,Possible,mild,1,0.4,Gemini
+735,Possible,mild,0,0.5,Gemini
+736,Common,severe,1,0.5,Gemini
+737,Common,severe,0,0.6,Gemini
+738,Common,mild,1,0.5,Gemini
+739,Common,mild,0,0.6,Gemini
+740,Very Common,severe,1,0.6,Gemini
+741,Very Common,severe,0,0.7,Gemini
+742,Very Common,mild,1,0.75,Gemini
+743,Very Common,mild,0,0.7,Gemini
+744,Probable,severe,1,0.75,Gemini
+745,Probable,severe,0,0.7,Gemini
+746,Probable,mild,1,0.75,Gemini
+747,Probable,mild,0,0.75,Gemini
+748,Likely,severe,1,0.6,Gemini
+749,Likely,severe,0,0.7,Gemini
+750,Likely,mild,1,0.75,Gemini
+751,Likely,mild,0,0.7,Gemini
+752,Usual,severe,1,0.5,Gemini
+753,Usual,severe,0,0.5,Gemini
+754,Usual,mild,1,0.5,Gemini
+755,Usual,mild,0,0.5,Gemini
+756,Very Likely,severe,1,0.75,Gemini
+757,Very Likely,severe,0,0.9,Gemini
+758,Very Likely,mild,1,0.85,Gemini
+759,Very Likely,mild,0,0.9,Gemini
+760,Rare,severe,1,0.05,Gemini
+761,Rare,severe,0,0.05,Gemini
+762,Rare,mild,1,0.03,Gemini
+763,Rare,mild,0,0.1,Gemini
+764,Uncommon,severe,1,0.05,Gemini
+765,Uncommon,severe,0,0.1,Gemini
+766,Uncommon,mild,1,0.1,Gemini
+767,Uncommon,mild,0,0.15,Gemini
+768,Unlikely,severe,1,0.2,Gemini
+769,Unlikely,severe,0,0.15,Gemini
+770,Unlikely,mild,1,0.2,Gemini
+771,Unlikely,mild,0,0.2,Gemini
+772,Possible,severe,1,0.05,Gemini
+773,Possible,severe,0,0.05,Gemini
+774,Possible,mild,1,0.3,Gemini
+775,Possible,mild,0,0.6,Gemini
+776,Common,severe,1,0.5,Gemini
+777,Common,severe,0,0.6,Gemini
+778,Common,mild,1,0.6,Gemini
+779,Common,mild,0,0.7,Gemini
+780,Very Common,severe,1,0.75,Gemini
+781,Very Common,severe,0,0.7,Gemini
+782,Very Common,mild,1,0.75,Gemini
+783,Very Common,mild,0,0.7,Gemini
+784,Probable,severe,1,0.6,Gemini
+785,Probable,severe,0,0.7,Gemini
+786,Probable,mild,1,0.75,Gemini
+787,Probable,mild,0,0.75,Gemini
+788,Likely,severe,1,0.75,Gemini
+789,Likely,severe,0,0.7,Gemini
+790,Likely,mild,1,0.75,Gemini
+791,Likely,mild,0,0.75,Gemini
+792,Usual,severe,1,0.5,Gemini
+793,Usual,severe,0,0.5,Gemini
+794,Usual,mild,1,0.5,Gemini
+795,Usual,mild,0,0.5,Gemini
+796,Very Likely,severe,1,0.75,Gemini
+797,Very Likely,severe,0,0.9,Gemini
+798,Very Likely,mild,1,0.85,Gemini
+799,Very Likely,mild,0,0.9,Gemini

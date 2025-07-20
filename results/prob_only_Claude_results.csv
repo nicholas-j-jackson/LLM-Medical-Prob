@@ -1,0 +1,801 @@
+,word,event,anxiety,response
+0,Rare,severe,1,2%
+1,Rare,severe,0,3%
+2,Rare,mild,1,4%
+3,Rare,mild,0,5%
+4,Uncommon,severe,1,0.3%
+5,Uncommon,severe,0,15%
+6,Uncommon,mild,1,5%
+7,Uncommon,mild,0,15%
+8,Unlikely,severe,1,1%
+9,Unlikely,severe,0,20%
+10,Unlikely,mild,1,15%
+11,Unlikely,mild,0,15%
+12,Possible,severe,1,1%
+13,Possible,severe,0,15%
+14,Possible,mild,1,10%
+15,Possible,mild,0,25%
+16,Common,severe,1,0.4%
+17,Common,severe,0,20%
+18,Common,mild,1,15%
+19,Common,mild,0,15%
+20,Very Common,severe,1,8%
+21,Very Common,severe,0,12%
+22,Very Common,mild,1,15%
+23,Very Common,mild,0,35%
+24,Probable,severe,1,5%
+25,Probable,severe,0,65%
+26,Probable,mild,1,60%
+27,Probable,mild,0,70%
+28,Likely,severe,1,5%
+29,Likely,severe,0,65%
+30,Likely,mild,1,35%
+31,Likely,mild,0,65%
+32,Usual,severe,1,4%
+33,Usual,severe,0,0.3%
+34,Usual,mild,1,10%
+35,Usual,mild,0,10%
+36,Very Likely,severe,1,5%
+37,Very Likely,severe,0,80%
+38,Very Likely,mild,1,30%
+39,Very Likely,mild,0,85%
+40,Rare,severe,1,0.3%
+41,Rare,severe,0,5%
+42,Rare,mild,1,4%
+43,Rare,mild,0,5%
+44,Uncommon,severe,1,0.4%
+45,Uncommon,severe,0,15%
+46,Uncommon,mild,1,8%
+47,Uncommon,mild,0,15%
+48,Unlikely,severe,1,3%
+49,Unlikely,severe,0,15%
+50,Unlikely,mild,1,15%
+51,Unlikely,mild,0,20%
+52,Possible,severe,1,3%
+53,Possible,severe,0,15%
+54,Possible,mild,1,8%
+55,Possible,mild,0,20%
+56,Common,severe,1,3%
+57,Common,severe,0,3%
+58,Common,mild,1,15%
+59,Common,mild,0,15%
+60,Very Common,severe,1,2%
+61,Very Common,severe,0,40%
+62,Very Common,mild,1,15%
+63,Very Common,mild,0,65%
+64,Probable,severe,1,15%
+65,Probable,severe,0,75%
+66,Probable,mild,1,45%
+67,Probable,mild,0,65%
+68,Likely,severe,1,17%
+69,Likely,severe,0,65%
+70,Likely,mild,1,30%
+71,Likely,mild,0,75%
+72,Usual,severe,1,10%
+73,Usual,severe,0,5%
+74,Usual,mild,1,20%
+75,Usual,mild,0,15%
+76,Very Likely,severe,1,5%
+77,Very Likely,severe,0,80%
+78,Very Likely,mild,1,85%
+79,Very Likely,mild,0,75%
+80,Rare,severe,1,3%
+81,Rare,severe,0,1%
+82,Rare,mild,1,2%
+83,Rare,mild,0,5%
+84,Uncommon,severe,1,0.4%
+85,Uncommon,severe,0,5%
+86,Uncommon,mild,1,5%
+87,Uncommon,mild,0,15%
+88,Unlikely,severe,1,2%
+89,Unlikely,severe,0,15%
+90,Unlikely,mild,1,15%
+91,Unlikely,mild,0,25%
+92,Possible,severe,1,0.4%
+93,Possible,severe,0,35%
+94,Possible,mild,1,8%
+95,Possible,mild,0,30%
+96,Common,severe,1,1.8%
+97,Common,severe,0,15%
+98,Common,mild,1,8%
+99,Common,mild,0,20%
+100,Very Common,severe,1,2%
+101,Very Common,severe,0,65%
+102,Very Common,mild,1,15%
+103,Very Common,mild,0,35%
+104,Probable,severe,1,15%
+105,Probable,severe,0,65%
+106,Probable,mild,1,30%
+107,Probable,mild,0,75%
+108,Likely,severe,1,5%
+109,Likely,severe,0,75%
+110,Likely,mild,1,55%
+111,Likely,mild,0,70%
+112,Usual,severe,1,0.2%
+113,Usual,severe,0,2%
+114,Usual,mild,1,25%
+115,Usual,mild,0,15%
+116,Very Likely,severe,1,5%
+117,Very Likely,severe,0,80%
+118,Very Likely,mild,1,70%
+119,Very Likely,mild,0,75%
+120,Rare,severe,1,3%
+121,Rare,severe,0,5%
+122,Rare,mild,1,5%
+123,Rare,mild,0,5%
+124,Uncommon,severe,1,0.2%
+125,Uncommon,severe,0,15%
+126,Uncommon,mild,1,4%
+127,Uncommon,mild,0,15%
+128,Unlikely,severe,1,2%
+129,Unlikely,severe,0,20%
+130,Unlikely,mild,1,15%
+131,Unlikely,mild,0,20%
+132,Possible,severe,1,1.3%
+133,Possible,severe,0,20%
+134,Possible,mild,1,8%
+135,Possible,mild,0,35%
+136,Common,severe,1,3%
+137,Common,severe,0,20%
+138,Common,mild,1,8%
+139,Common,mild,0,20%
+140,Very Common,severe,1,0.2%
+141,Very Common,severe,0,15%
+142,Very Common,mild,1,15%
+143,Very Common,mild,0,35%
+144,Probable,severe,1,20%
+145,Probable,severe,0,65%
+146,Probable,mild,1,25%
+147,Probable,mild,0,70%
+148,Likely,severe,1,15%
+149,Likely,severe,0,75%
+150,Likely,mild,1,25%
+151,Likely,mild,0,65%
+152,Usual,severe,1,12%
+153,Usual,severe,0,3%
+154,Usual,mild,1,20%
+155,Usual,mild,0,20%
+156,Very Likely,severe,1,15%
+157,Very Likely,severe,0,75%
+158,Very Likely,mild,1,25%
+159,Very Likely,mild,0,85%
+160,Rare,severe,1,1%
+161,Rare,severe,0,1%
+162,Rare,mild,1,8%
+163,Rare,mild,0,3%
+164,Uncommon,severe,1,0.2%
+165,Uncommon,severe,0,15%
+166,Uncommon,mild,1,5%
+167,Uncommon,mild,0,15%
+168,Unlikely,severe,1,2%
+169,Unlikely,severe,0,20%
+170,Unlikely,mild,1,5%
+171,Unlikely,mild,0,25%
+172,Possible,severe,1,1%
+173,Possible,severe,0,15%
+174,Possible,mild,1,8%
+175,Possible,mild,0,30%
+176,Common,severe,1,10%
+177,Common,severe,0,8%
+178,Common,mild,1,10%
+179,Common,mild,0,20%
+180,Very Common,severe,1,0.8%
+181,Very Common,severe,0,35%
+182,Very Common,mild,1,15%
+183,Very Common,mild,0,35%
+184,Probable,severe,1,25%
+185,Probable,severe,0,65%
+186,Probable,mild,1,25%
+187,Probable,mild,0,75%
+188,Likely,severe,1,5%
+189,Likely,severe,0,75%
+190,Likely,mild,1,30%
+191,Likely,mild,0,65%
+192,Usual,severe,1,12%
+193,Usual,severe,0,2%
+194,Usual,mild,1,25%
+195,Usual,mild,0,9%
+196,Very Likely,severe,1,25%
+197,Very Likely,severe,0,85%
+198,Very Likely,mild,1,60%
+199,Very Likely,mild,0,80%
+200,Rare,severe,1,2%
+201,Rare,severe,0,1%
+202,Rare,mild,1,5%
+203,Rare,mild,0,5%
+204,Uncommon,severe,1,1%
+205,Uncommon,severe,0,15%
+206,Uncommon,mild,1,8%
+207,Uncommon,mild,0,15%
+208,Unlikely,severe,1,1%
+209,Unlikely,severe,0,20%
+210,Unlikely,mild,1,15%
+211,Unlikely,mild,0,25%
+212,Possible,severe,1,2%
+213,Possible,severe,0,20%
+214,Possible,mild,1,8%
+215,Possible,mild,0,15%
+216,Common,severe,1,1%
+217,Common,severe,0,35%
+218,Common,mild,1,15%
+219,Common,mild,0,15%
+220,Very Common,severe,1,0.8%
+221,Very Common,severe,0,70%
+222,Very Common,mild,1,15%
+223,Very Common,mild,0,55%
+224,Probable,severe,1,5%
+225,Probable,severe,0,75%
+226,Probable,mild,1,30%
+227,Probable,mild,0,65%
+228,Likely,severe,1,10%
+229,Likely,severe,0,75%
+230,Likely,mild,1,20%
+231,Likely,mild,0,75%
+232,Usual,severe,1,1%
+233,Usual,severe,0,2%
+234,Usual,mild,1,10%
+235,Usual,mild,0,15%
+236,Very Likely,severe,1,8%
+237,Very Likely,severe,0,80%
+238,Very Likely,mild,1,35%
+239,Very Likely,mild,0,75%
+240,Rare,severe,1,2%
+241,Rare,severe,0,2%
+242,Rare,mild,1,2%
+243,Rare,mild,0,1%
+244,Uncommon,severe,1,0.1%
+245,Uncommon,severe,0,15%
+246,Uncommon,mild,1,8%
+247,Uncommon,mild,0,15%
+248,Unlikely,severe,1,3%
+249,Unlikely,severe,0,15%
+250,Unlikely,mild,1,15%
+251,Unlikely,mild,0,25%
+252,Possible,severe,1,0.7%
+253,Possible,severe,0,17%
+254,Possible,mild,1,8%
+255,Possible,mild,0,20%
+256,Common,severe,1,8%
+257,Common,severe,0,15%
+258,Common,mild,1,6%
+259,Common,mild,0,20%
+260,Very Common,severe,1,3%
+261,Very Common,severe,0,80%
+262,Very Common,mild,1,15%
+263,Very Common,mild,0,35%
+264,Probable,severe,1,25%
+265,Probable,severe,0,60%
+266,Probable,mild,1,30%
+267,Probable,mild,0,65%
+268,Likely,severe,1,12%
+269,Likely,severe,0,70%
+270,Likely,mild,1,35%
+271,Likely,mild,0,75%
+272,Usual,severe,1,0.4%
+273,Usual,severe,0,0.2%
+274,Usual,mild,1,20%
+275,Usual,mild,0,12%
+276,Very Likely,severe,1,35%
+277,Very Likely,severe,0,85%
+278,Very Likely,mild,1,15%
+279,Very Likely,mild,0,80%
+280,Rare,severe,1,3%
+281,Rare,severe,0,3%
+282,Rare,mild,1,2%
+283,Rare,mild,0,5%
+284,Uncommon,severe,1,2%
+285,Uncommon,severe,0,15%
+286,Uncommon,mild,1,8%
+287,Uncommon,mild,0,15%
+288,Unlikely,severe,1,3%
+289,Unlikely,severe,0,15%
+290,Unlikely,mild,1,15%
+291,Unlikely,mild,0,25%
+292,Possible,severe,1,3%
+293,Possible,severe,0,15%
+294,Possible,mild,1,4%
+295,Possible,mild,0,20%
+296,Common,severe,1,5%
+297,Common,severe,0,7%
+298,Common,mild,1,7%
+299,Common,mild,0,15%
+300,Very Common,severe,1,8%
+301,Very Common,severe,0,32%
+302,Very Common,mild,1,15%
+303,Very Common,mild,0,45%
+304,Probable,severe,1,5%
+305,Probable,severe,0,75%
+306,Probable,mild,1,30%
+307,Probable,mild,0,75%
+308,Likely,severe,1,20%
+309,Likely,severe,0,75%
+310,Likely,mild,1,60%
+311,Likely,mild,0,65%
+312,Usual,severe,1,2%
+313,Usual,severe,0,3%
+314,Usual,mild,1,20%
+315,Usual,mild,0,8%
+316,Very Likely,severe,1,23%
+317,Very Likely,severe,0,75%
+318,Very Likely,mild,1,75%
+319,Very Likely,mild,0,80%
+320,Rare,severe,1,3%
+321,Rare,severe,0,1%
+322,Rare,mild,1,4%
+323,Rare,mild,0,2%
+324,Uncommon,severe,1,1%
+325,Uncommon,severe,0,5%
+326,Uncommon,mild,1,15%
+327,Uncommon,mild,0,15%
+328,Unlikely,severe,1,1%
+329,Unlikely,severe,0,20%
+330,Unlikely,mild,1,15%
+331,Unlikely,mild,0,20%
+332,Possible,severe,1,0.5%
+333,Possible,severe,0,15%
+334,Possible,mild,1,8%
+335,Possible,mild,0,30%
+336,Common,severe,1,10%
+337,Common,severe,0,10%
+338,Common,mild,1,10%
+339,Common,mild,0,15%
+340,Very Common,severe,1,1%
+341,Very Common,severe,0,25%
+342,Very Common,mild,1,6%
+343,Very Common,mild,0,35%
+344,Probable,severe,1,45%
+345,Probable,severe,0,65%
+346,Probable,mild,1,20%
+347,Probable,mild,0,75%
+348,Likely,severe,1,5%
+349,Likely,severe,0,60%
+350,Likely,mild,1,25%
+351,Likely,mild,0,65%
+352,Usual,severe,1,1%
+353,Usual,severe,0,4%
+354,Usual,mild,1,15%
+355,Usual,mild,0,20%
+356,Very Likely,severe,1,5%
+357,Very Likely,severe,0,80%
+358,Very Likely,mild,1,65%
+359,Very Likely,mild,0,85%
+360,Rare,severe,1,3%
+361,Rare,severe,0,2%
+362,Rare,mild,1,4%
+363,Rare,mild,0,3%
+364,Uncommon,severe,1,0.2%
+365,Uncommon,severe,0,5%
+366,Uncommon,mild,1,3%
+367,Uncommon,mild,0,15%
+368,Unlikely,severe,1,3%
+369,Unlikely,severe,0,25%
+370,Unlikely,mild,1,15%
+371,Unlikely,mild,0,15%
+372,Possible,severe,1,3%
+373,Possible,severe,0,20%
+374,Possible,mild,1,15%
+375,Possible,mild,0,30%
+376,Common,severe,1,1.4%
+377,Common,severe,0,15%
+378,Common,mild,1,15%
+379,Common,mild,0,15%
+380,Very Common,severe,1,3%
+381,Very Common,severe,0,30%
+382,Very Common,mild,1,10%
+383,Very Common,mild,0,25%
+384,Probable,severe,1,5%
+385,Probable,severe,0,65%
+386,Probable,mild,1,30%
+387,Probable,mild,0,65%
+388,Likely,severe,1,15%
+389,Likely,severe,0,65%
+390,Likely,mild,1,20%
+391,Likely,mild,0,65%
+392,Usual,severe,1,0.1%
+393,Usual,severe,0,2%
+394,Usual,mild,1,20%
+395,Usual,mild,0,10%
+396,Very Likely,severe,1,5%
+397,Very Likely,severe,0,75%
+398,Very Likely,mild,1,25%
+399,Very Likely,mild,0,75%
+400,Rare,severe,1,0.3%
+401,Rare,severe,0,0.5%
+402,Rare,mild,1,6%
+403,Rare,mild,0,2%
+404,Uncommon,severe,1,0.2%
+405,Uncommon,severe,0,15%
+406,Uncommon,mild,1,5%
+407,Uncommon,mild,0,15%
+408,Unlikely,severe,1,1%
+409,Unlikely,severe,0,20%
+410,Unlikely,mild,1,15%
+411,Unlikely,mild,0,20%
+412,Possible,severe,1,3%
+413,Possible,severe,0,20%
+414,Possible,mild,1,8%
+415,Possible,mild,0,35%
+416,Common,severe,1,3%
+417,Common,severe,0,8%
+418,Common,mild,1,15%
+419,Common,mild,0,20%
+420,Very Common,severe,1,1.3%
+421,Very Common,severe,0,30%
+422,Very Common,mild,1,15%
+423,Very Common,mild,0,35%
+424,Probable,severe,1,20%
+425,Probable,severe,0,70%
+426,Probable,mild,1,45%
+427,Probable,mild,0,70%
+428,Likely,severe,1,8%
+429,Likely,severe,0,75%
+430,Likely,mild,1,30%
+431,Likely,mild,0,70%
+432,Usual,severe,1,1%
+433,Usual,severe,0,1.5%
+434,Usual,mild,1,15%
+435,Usual,mild,0,15%
+436,Very Likely,severe,1,15%
+437,Very Likely,severe,0,80%
+438,Very Likely,mild,1,35%
+439,Very Likely,mild,0,75%
+440,Rare,severe,1,0.8%
+441,Rare,severe,0,2%
+442,Rare,mild,1,8%
+443,Rare,mild,0,5%
+444,Uncommon,severe,1,0.1%
+445,Uncommon,severe,0,10%
+446,Uncommon,mild,1,8%
+447,Uncommon,mild,0,15%
+448,Unlikely,severe,1,1%
+449,Unlikely,severe,0,20%
+450,Unlikely,mild,1,20%
+451,Unlikely,mild,0,25%
+452,Possible,severe,1,0.6%
+453,Possible,severe,0,25%
+454,Possible,mild,1,8%
+455,Possible,mild,0,15%
+456,Common,severe,1,3%
+457,Common,severe,0,12%
+458,Common,mild,1,6%
+459,Common,mild,0,15%
+460,Very Common,severe,1,0.2%
+461,Very Common,severe,0,35%
+462,Very Common,mild,1,4%
+463,Very Common,mild,0,30%
+464,Probable,severe,1,30%
+465,Probable,severe,0,65%
+466,Probable,mild,1,30%
+467,Probable,mild,0,75%
+468,Likely,severe,1,5%
+469,Likely,severe,0,65%
+470,Likely,mild,1,30%
+471,Likely,mild,0,65%
+472,Usual,severe,1,1%
+473,Usual,severe,0,9%
+474,Usual,mild,1,15%
+475,Usual,mild,0,30%
+476,Very Likely,severe,1,10%
+477,Very Likely,severe,0,80%
+478,Very Likely,mild,1,35%
+479,Very Likely,mild,0,80%
+480,Rare,severe,1,0.3%
+481,Rare,severe,0,1%
+482,Rare,mild,1,4%
+483,Rare,mild,0,5%
+484,Uncommon,severe,1,0.2%
+485,Uncommon,severe,0,15%
+486,Uncommon,mild,1,5%
+487,Uncommon,mild,0,15%
+488,Unlikely,severe,1,0.3%
+489,Unlikely,severe,0,25%
+490,Unlikely,mild,1,15%
+491,Unlikely,mild,0,15%
+492,Possible,severe,1,0.4%
+493,Possible,severe,0,15%
+494,Possible,mild,1,8%
+495,Possible,mild,0,25%
+496,Common,severe,1,4%
+497,Common,severe,0,2.5%
+498,Common,mild,1,15%
+499,Common,mild,0,20%
+500,Very Common,severe,1,1.5%
+501,Very Common,severe,0,65%
+502,Very Common,mild,1,20%
+503,Very Common,mild,0,40%
+504,Probable,severe,1,10%
+505,Probable,severe,0,75%
+506,Probable,mild,1,30%
+507,Probable,mild,0,65%
+508,Likely,severe,1,1.5%
+509,Likely,severe,0,65%
+510,Likely,mild,1,25%
+511,Likely,mild,0,70%
+512,Usual,severe,1,2%
+513,Usual,severe,0,2%
+514,Usual,mild,1,20%
+515,Usual,mild,0,8%
+516,Very Likely,severe,1,20%
+517,Very Likely,severe,0,75%
+518,Very Likely,mild,1,30%
+519,Very Likely,mild,0,80%
+520,Rare,severe,1,1%
+521,Rare,severe,0,1%
+522,Rare,mild,1,5%
+523,Rare,mild,0,5%
+524,Uncommon,severe,1,0.2%
+525,Uncommon,severe,0,15%
+526,Uncommon,mild,1,5%
+527,Uncommon,mild,0,15%
+528,Unlikely,severe,1,2%
+529,Unlikely,severe,0,20%
+530,Unlikely,mild,1,20%
+531,Unlikely,mild,0,20%
+532,Possible,severe,1,3%
+533,Possible,severe,0,15%
+534,Possible,mild,1,4%
+535,Possible,mild,0,30%
+536,Common,severe,1,1.6%
+537,Common,severe,0,15%
+538,Common,mild,1,15%
+539,Common,mild,0,10%
+540,Very Common,severe,1,12%
+541,Very Common,severe,0,21%
+542,Very Common,mild,1,15%
+543,Very Common,mild,0,35%
+544,Probable,severe,1,15%
+545,Probable,severe,0,70%
+546,Probable,mild,1,25%
+547,Probable,mild,0,70%
+548,Likely,severe,1,10%
+549,Likely,severe,0,75%
+550,Likely,mild,1,15%
+551,Likely,mild,0,65%
+552,Usual,severe,1,10%
+553,Usual,severe,0,3%
+554,Usual,mild,1,20%
+555,Usual,mild,0,25%
+556,Very Likely,severe,1,15%
+557,Very Likely,severe,0,80%
+558,Very Likely,mild,1,35%
+559,Very Likely,mild,0,80%
+560,Rare,severe,1,0.5%
+561,Rare,severe,0,1%
+562,Rare,mild,1,5%
+563,Rare,mild,0,5%
+564,Uncommon,severe,1,0.5%
+565,Uncommon,severe,0,15%
+566,Uncommon,mild,1,8%
+567,Uncommon,mild,0,15%
+568,Unlikely,severe,1,2%
+569,Unlikely,severe,0,25%
+570,Unlikely,mild,1,10%
+571,Unlikely,mild,0,25%
+572,Possible,severe,1,1%
+573,Possible,severe,0,30%
+574,Possible,mild,1,8%
+575,Possible,mild,0,35%
+576,Common,severe,1,1.5%
+577,Common,severe,0,2%
+578,Common,mild,1,15%
+579,Common,mild,0,20%
+580,Very Common,severe,1,3%
+581,Very Common,severe,0,3%
+582,Very Common,mild,1,20%
+583,Very Common,mild,0,35%
+584,Probable,severe,1,25%
+585,Probable,severe,0,70%
+586,Probable,mild,1,20%
+587,Probable,mild,0,65%
+588,Likely,severe,1,10%
+589,Likely,severe,0,60%
+590,Likely,mild,1,35%
+591,Likely,mild,0,65%
+592,Usual,severe,1,1%
+593,Usual,severe,0,2%
+594,Usual,mild,1,10%
+595,Usual,mild,0,15%
+596,Very Likely,severe,1,5%
+597,Very Likely,severe,0,85%
+598,Very Likely,mild,1,65%
+599,Very Likely,mild,0,80%
+600,Rare,severe,1,3%
+601,Rare,severe,0,3%
+602,Rare,mild,1,4%
+603,Rare,mild,0,5%
+604,Uncommon,severe,1,0.4%
+605,Uncommon,severe,0,15%
+606,Uncommon,mild,1,8%
+607,Uncommon,mild,0,15%
+608,Unlikely,severe,1,2%
+609,Unlikely,severe,0,20%
+610,Unlikely,mild,1,5%
+611,Unlikely,mild,0,25%
+612,Possible,severe,1,12%
+613,Possible,severe,0,25%
+614,Possible,mild,1,8%
+615,Possible,mild,0,35%
+616,Common,severe,1,3%
+617,Common,severe,0,15%
+618,Common,mild,1,12%
+619,Common,mild,0,15%
+620,Very Common,severe,1,3%
+621,Very Common,severe,0,15%
+622,Very Common,mild,1,15%
+623,Very Common,mild,0,60%
+624,Probable,severe,1,3%
+625,Probable,severe,0,65%
+626,Probable,mild,1,35%
+627,Probable,mild,0,75%
+628,Likely,severe,1,15%
+629,Likely,severe,0,65%
+630,Likely,mild,1,25%
+631,Likely,mild,0,65%
+632,Usual,severe,1,3%
+633,Usual,severe,0,2%
+634,Usual,mild,1,20%
+635,Usual,mild,0,20%
+636,Very Likely,severe,1,3%
+637,Very Likely,severe,0,85%
+638,Very Likely,mild,1,25%
+639,Very Likely,mild,0,80%
+640,Rare,severe,1,1%
+641,Rare,severe,0,1%
+642,Rare,mild,1,5%
+643,Rare,mild,0,5%
+644,Uncommon,severe,1,0.8%
+645,Uncommon,severe,0,15%
+646,Uncommon,mild,1,8%
+647,Uncommon,mild,0,15%
+648,Unlikely,severe,1,1%
+649,Unlikely,severe,0,15%
+650,Unlikely,mild,1,15%
+651,Unlikely,mild,0,20%
+652,Possible,severe,1,0.3%
+653,Possible,severe,0,20%
+654,Possible,mild,1,15%
+655,Possible,mild,0,35%
+656,Common,severe,1,1%
+657,Common,severe,0,9%
+658,Common,mild,1,20%
+659,Common,mild,0,20%
+660,Very Common,severe,1,5%
+661,Very Common,severe,0,25%
+662,Very Common,mild,1,15%
+663,Very Common,mild,0,65%
+664,Probable,severe,1,20%
+665,Probable,severe,0,75%
+666,Probable,mild,1,35%
+667,Probable,mild,0,70%
+668,Likely,severe,1,12%
+669,Likely,severe,0,60%
+670,Likely,mild,1,15%
+671,Likely,mild,0,65%
+672,Usual,severe,1,12%
+673,Usual,severe,0,1%
+674,Usual,mild,1,15%
+675,Usual,mild,0,15%
+676,Very Likely,severe,1,8%
+677,Very Likely,severe,0,85%
+678,Very Likely,mild,1,65%
+679,Very Likely,mild,0,80%
+680,Rare,severe,1,1%
+681,Rare,severe,0,0.5%
+682,Rare,mild,1,5%
+683,Rare,mild,0,5%
+684,Uncommon,severe,1,0.2%
+685,Uncommon,severe,0,15%
+686,Uncommon,mild,1,8%
+687,Uncommon,mild,0,15%
+688,Unlikely,severe,1,2%
+689,Unlikely,severe,0,20%
+690,Unlikely,mild,1,15%
+691,Unlikely,mild,0,15%
+692,Possible,severe,1,3%
+693,Possible,severe,0,35%
+694,Possible,mild,1,4%
+695,Possible,mild,0,25%
+696,Common,severe,1,10%
+697,Common,severe,0,15%
+698,Common,mild,1,15%
+699,Common,mild,0,10%
+700,Very Common,severe,1,3%
+701,Very Common,severe,0,40%
+702,Very Common,mild,1,25%
+703,Very Common,mild,0,65%
+704,Probable,severe,1,12%
+705,Probable,severe,0,65%
+706,Probable,mild,1,30%
+707,Probable,mild,0,65%
+708,Likely,severe,1,15%
+709,Likely,severe,0,75%
+710,Likely,mild,1,20%
+711,Likely,mild,0,75%
+712,Usual,severe,1,2%
+713,Usual,severe,0,15%
+714,Usual,mild,1,15%
+715,Usual,mild,0,15%
+716,Very Likely,severe,1,8%
+717,Very Likely,severe,0,80%
+718,Very Likely,mild,1,30%
+719,Very Likely,mild,0,75%
+720,Rare,severe,1,1%
+721,Rare,severe,0,1%
+722,Rare,mild,1,5%
+723,Rare,mild,0,5%
+724,Uncommon,severe,1,0.4%
+725,Uncommon,severe,0,5%
+726,Uncommon,mild,1,8%
+727,Uncommon,mild,0,15%
+728,Unlikely,severe,1,2%
+729,Unlikely,severe,0,15%
+730,Unlikely,mild,1,8%
+731,Unlikely,mild,0,15%
+732,Possible,severe,1,10%
+733,Possible,severe,0,20%
+734,Possible,mild,1,8%
+735,Possible,mild,0,20%
+736,Common,severe,1,3%
+737,Common,severe,0,12%
+738,Common,mild,1,8%
+739,Common,mild,0,15%
+740,Very Common,severe,1,8%
+741,Very Common,severe,0,35%
+742,Very Common,mild,1,15%
+743,Very Common,mild,0,35%
+744,Probable,severe,1,15%
+745,Probable,severe,0,65%
+746,Probable,mild,1,35%
+747,Probable,mild,0,75%
+748,Likely,severe,1,10%
+749,Likely,severe,0,60%
+750,Likely,mild,1,20%
+751,Likely,mild,0,67%
+752,Usual,severe,1,0.1%
+753,Usual,severe,0,1%
+754,Usual,mild,1,20%
+755,Usual,mild,0,15%
+756,Very Likely,severe,1,10%
+757,Very Likely,severe,0,85%
+758,Very Likely,mild,1,45%
+759,Very Likely,mild,0,80%
+760,Rare,severe,1,1%
+761,Rare,severe,0,1%
+762,Rare,mild,1,2%
+763,Rare,mild,0,3%
+764,Uncommon,severe,1,1%
+765,Uncommon,severe,0,15%
+766,Uncommon,mild,1,5%
+767,Uncommon,mild,0,15%
+768,Unlikely,severe,1,2%
+769,Unlikely,severe,0,20%
+770,Unlikely,mild,1,15%
+771,Unlikely,mild,0,15%
+772,Possible,severe,1,1%
+773,Possible,severe,0,3%
+774,Possible,mild,1,8%
+775,Possible,mild,0,15%
+776,Common,severe,1,2%
+777,Common,severe,0,10%
+778,Common,mild,1,7%
+779,Common,mild,0,15%
+780,Very Common,severe,1,3%
+781,Very Common,severe,0,12%
+782,Very Common,mild,1,15%
+783,Very Common,mild,0,35%
+784,Probable,severe,1,30%
+785,Probable,severe,0,65%
+786,Probable,mild,1,20%
+787,Probable,mild,0,75%
+788,Likely,severe,1,5%
+789,Likely,severe,0,75%
+790,Likely,mild,1,25%
+791,Likely,mild,0,65%
+792,Usual,severe,1,2%
+793,Usual,severe,0,5%
+794,Usual,mild,1,15%
+795,Usual,mild,0,10%
+796,Very Likely,severe,1,12%
+797,Very Likely,severe,0,75%
+798,Very Likely,mild,1,25%
+799,Very Likely,mild,0,75%
