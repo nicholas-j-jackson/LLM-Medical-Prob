@@ -1,0 +1,135 @@
+---
+title: "LLM Risk final"
+author: "Katerina Andreadis"
+date: "2025-10-29"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+knitr::opts_knit$set(root.dir = "~/Downloads")
+```
+
+
+#Setup and Data Import
+```{r}
+library(dplyr)
+library(readr)
+library(lme4)
+library(emmeans)
+library(stringr)
+
+base <- read_csv("~/Downloads/results_and_readability.csv") %>%
+  mutate(promptID = interaction(word, event, anxiety, drop = TRUE))
+
+forced <- read_csv("~/Downloads/results_forced.csv") %>%
+  mutate(
+    promptID = interaction(word, event, anxiety, drop = TRUE),
+    response_pct = response * 100
+  )
+
+```
+
+#Abstention - mixed effects
+```{r}
+fit_abstain <- glmer(Scrape_Included ~ Model * (event + anxiety) + 
+                       word + (1 | promptID),
+                     data = base,
+                     family = binomial)
+summary(fit_abstain)
+anova(update(fit_abstain, . ~ . - Model - Model:event - Model:anxiety), fit_abstain, test = "Chisq")
+
+```
+
+#Abstention rates - table 1
+```{r}
+table1 <- base %>%
+  mutate(abstain = Scrape_Included == 0) %>%
+  group_by(Model) %>%
+  summarise(
+    overall = mean(abstain),
+    overall_l = overall - 1.96 * sqrt(overall*(1-overall)/n()),
+    overall_u = overall + 1.96 * sqrt(overall*(1-overall)/n()),
+    severe = mean(abstain[event == "severe"]),
+    severe_l = severe - 1.96 * sqrt(severe*(1-severe)/sum(event=="severe")),
+    severe_u = severe + 1.96 * sqrt(severe*(1-severe)/sum(event=="severe")),
+    anxious = mean(abstain[anxiety == 1]),
+    anxious_l = anxious - 1.96 * sqrt(anxious*(1-anxious)/sum(anxiety==1)),
+    anxious_u = anxious + 1.96 * sqrt(anxious*(1-anxious)/sum(anxiety==1)),
+    .groups = "drop"
+  ) %>%
+  mutate(across(starts_with(c("overall","severe","anxious")),
+                ~ round(.x*100,1)))
+
+table1
+
+```
+
+
+#Forced Numeric Interpetation -  Anova 
+```{r}
+fit_prob <- lmer(response_pct ~ Model * word + (1 | promptID), data = forced)
+anova(fit_prob)
+emmeans(fit_prob, pairwise ~ Model | word, adjust = "holm")
+
+```
+
+
+
+#Lay comparison 
+```{r}
+library(dplyr)
+library(tidyr)
+library(broom)
+
+lay_ref <- tribble(
+  ~word, ~lay_benchmark,
+  "Rare", 10.00, "Uncommon", 17.64, "Unlikely", 17.71, "Possible", 43.28,
+  "Common", 58.73, "Very Common", 60.10, "Probable", 69.87, "Likely", 71.87,
+  "Usual", 75.38, "Very Likely", 84.30
+)
+
+forced_lay <- forced %>%
+  filter(event == "mild", anxiety == 0) %>%     
+  left_join(lay_ref, by = "word") %>%
+  group_by(Model, word) %>%
+  summarise(
+    n  = n(),
+    m  = mean(response_pct, na.rm = TRUE),
+    sd = sd(response_pct, na.rm = TRUE),
+    .groups = "drop"
+  )
+
+```
+
+
+#Word Count
+```{r}
+library(glmmTMB)
+
+fit_wc_nb <- glmmTMB(
+  word_count ~ Model * (event + anxiety) + (1 | promptID),
+  family = nbinom2,
+  data = base
+)
+
+anova(update(fit_wc_nb, . ~ . - Model - Model:event - Model:anxiety), fit_wc_nb)
+
+```
+
+#Readability - Linear Mixed Models + CIs
+```{r}
+fit_fre <- lmer(flesch_readability ~ Model * (event + anxiety) + (1 | promptID), data = base)
+fit_fk  <- lmer(flesch_kincaid_grade_level ~ Model * (event + anxiety) + (1 | promptID), data = base)
+
+library(emmeans)
+emm_fre <- emmeans(fit_fre, ~ event * anxiety)
+summary(emm_fre, infer = TRUE)
+pairs(emm_fre)
+
+```
+
+
