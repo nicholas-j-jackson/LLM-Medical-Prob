@@ -41,6 +41,9 @@ Which uses GPT-4o to identify whether the LLM responses generated from main.py p
 - Samples 100 responses to be manually validated in the "Manual Validation" section.
 - Produce the main figures and numbers used in the paper.
 
+3. "LLM Risk final.Rmd":
+    - Fits the statistical models used in the study and summarizes results
+
 ### NOTE: 
 The results currently stored in the 'results' folder are those used in the study, but will be over-written if any of the above code is run.
 
